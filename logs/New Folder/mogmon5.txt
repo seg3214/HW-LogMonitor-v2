@@ -1,0 +1,118 @@
+L 2020-04-26 09:43 - me installed file Amazing Firewall.fwl (8.0)
+L 
+L 2020-04-26 09:44 - me logged in to [158.100.177.70] as root
+R 2020-04-26 09:44 - me logged in as root
+L 2020-04-26 09:46 - me uploaded file Advanced Miner.vminer (5.0) to [158.100.177.70]
+R 2020-04-26 09:46 - me uploaded file Advanced Miner.vminer (5.0) at localhost
+L 2020-04-26 09:46 - me installed virus Advanced Miner.vminer (5.0) at [158.100.177.70]
+R 2020-04-26 09:46 - me installed virus Advanced Miner.vminer (5.0) at localhost
+L 2020-04-26 09:47 - me hid file Advanced Miner.vminer (5.0) at [158.100.177.70]
+R 2020-04-26 09:47 - me hid file Advanced Miner.vminer (5.0) at localhost
+L 2020-04-26 09:49 - me logged in to [52.180.81.215] as root
+R 2020-04-26 09:49 - me logged in as root
+L 2020-04-26 09:50 - me deleted file Fwd to FBI.txt at [52.180.81.215]
+R 2020-04-26 09:50 - me deleted file Fwd to FBI.txt at localhost
+L 2020-04-26 09:53 - me logged on account #416775703 on bank [163.52.50.24]
+L 2020-04-26 09:53 - me transfered $891 from #416775703 (163.52.50.24) to account #316772825 on bank [186.240.4.229]
+L 2020-04-26 09:53 - me logged in to [163.52.50.24] as root
+R 2020-04-26 09:53 - me logged in as root
+R 2020-04-26 09:53 - me transfered $891 from #416775703 (localhost) to #316772825 at [186.240.4.229]
+R 2020-04-26 09:53 - me logged on account #416775703
+L 2020-04-26 09:53 - me logged on account #316772825 on bank [186.240.4.229]
+L 2020-04-26 09:53 - me transfered $2735 from #316772825 (186.240.4.229) to account #744335213 on bank [46.25.121.118]
+L 2020-04-26 09:54 - me logged in to [186.240.4.229] as root
+R 2020-04-26 09:54 - me logged in as root
+R 2020-04-26 09:53 - me transfered $2735 from #316772825 (localhost) to #744335213 at [46.25.121.118]
+R 2020-04-26 09:53 - me logged on account #316772825
+R 2020-04-26 09:53 - me transfered $891 from #416775703 (163.52.50.24) to #316772825 at localhost
+R 
+L 2020-04-26 09:55 - me logged on account #549690174 on bank [186.240.4.229]
+L 2020-04-26 09:55 - me transfered $23255 from #549690174 (186.240.4.229) to account #744335213 on bank [46.25.121.118]
+L 2020-04-26 09:55 - me logged in to [186.240.4.229] as root
+R 2020-04-26 09:55 - me logged in as root
+R 2020-04-26 09:55 - me transfered $23255 from #549690174 (localhost) to #744335213 at [46.25.121.118]
+R 2020-04-26 09:55 - me logged on account #549690174
+L 2020-04-26 09:56 - me logged on account #994867254 on bank [65.206.153.233]
+L 2020-04-26 09:56 - me transfered $1224 from #994867254 (65.206.153.233) to account #250619251 on bank [186.240.4.229]
+L 2020-04-26 09:56 - me logged in to [65.206.153.233] as root
+R 2020-04-26 09:56 - me logged in as root
+R 2020-04-26 09:56 - me transfered $1224 from #994867254 (localhost) to #250619251 at [186.240.4.229]
+R 2020-04-26 09:56 - me logged on account #994867254
+L 2020-04-26 09:57 - me logged on account #744335213 on bank [46.25.121.118]
+L 2020-04-26 09:57 - me logged in to [46.25.121.118] as root
+R 2020-04-26 09:57 - me logged in as root
+R 2020-04-26 09:57 - me logged on account #744335213
+R 2020-04-26 09:55 - me transfered $23255 from #549690174 (186.240.4.229) to #744335213 at localhost
+R 2020-04-26 09:53 - me transfered $2735 from #316772825 (186.240.4.229) to #744335213 at localhost
+L 2020-04-26 09:58 - me logged in to [186.240.4.229] as root
+R 2020-04-26 09:58 - me logged in as root
+R 2020-04-26 09:58 - [11.145.212.62] logged in as root
+R 2020-04-26 09:57 - [11.145.212.62] logged on account #582380033
+R 2020-04-26 09:56 - me transfered $1224 from #994867254 (65.206.153.233) to #250619251 at localhost
+L 2020-04-26 09:58 - me logged in to [227.2.23.33] as root
+L 2020-04-26 09:59 - me logged on account #582380033 on bank [186.240.4.229]
+L 2020-04-26 09:59 - me logged in to [186.240.4.229] as root
+R 2020-04-26 09:59 - me logged in as root
+R 2020-04-26 09:59 - me logged on account #582380033
+L 2020-04-26 09:59 - me logged in to [163.52.50.24] as root
+L 2020-04-26 09:59 - me logged in to [65.206.153.233] as root
+L 2020-04-26 10:00 - me logged on account #549690174 on bank [186.240.4.229]
+L 2020-04-26 10:00 - me logged in to [186.240.4.229] as root
+R 2020-04-26 10:00 - me logged in as root
+R 2020-04-26 10:00 - me logged on account #549690174
+L 2020-04-26 10:04 - me logged on account #600437841 on bank [46.25.121.118]
+L 2020-04-26 10:04 - me transfered $1320 from #600437841 (46.25.121.118) to account #162207871 on bank [65.206.153.233]
+L 2020-04-26 10:04 - me logged in to [46.25.121.118] as root
+R 2020-04-26 10:04 - me logged in as root
+R 2020-04-26 10:04 - me transfered $1320 from #600437841 (localhost) to #162207871 at [65.206.153.233]
+R 2020-04-26 10:04 - me logged on account #600437841
+L 2020-04-26 10:04 - me logged on account #162207871 on bank [65.206.153.233]
+L 2020-04-26 10:05 - me transfered $2951 from #162207871 (65.206.153.233) to account #744335213 on bank [46.25.121.118]
+L 2020-04-26 10:05 - me logged in to [65.206.153.233] as root
+R 2020-04-26 10:05 - me logged in as root
+R 2020-04-26 10:05 - me transfered $2951 from #162207871 (localhost) to #744335213 at [46.25.121.118]
+R 2020-04-26 10:04 - me logged on account #162207871
+R 2020-04-26 10:04 - me transfered $1320 from #600437841 (46.25.121.118) to #162207871 at localhost
+L 2020-04-26 10:06 - me logged on account #277266226 on bank [65.206.153.233]
+L 2020-04-26 10:06 - me transfered $1098 from #277266226 (65.206.153.233) to account #683621676 on bank [163.52.50.24]
+L 2020-04-26 10:06 - me logged in to [65.206.153.233] as root
+R 2020-04-26 10:06 - me logged in as root
+R 2020-04-26 10:06 - me transfered $1098 from #277266226 (localhost) to #683621676 at [163.52.50.24]
+R 2020-04-26 10:06 - me logged on account #277266226
+L 2020-04-26 10:07 - me logged on account #683621676 on bank [163.52.50.24]
+L 2020-04-26 10:07 - me transfered $2243 from #683621676 (163.52.50.24) to account #744335213 on bank [46.25.121.118]
+L 2020-04-26 10:07 - me logged in to [163.52.50.24] as root
+R 2020-04-26 10:07 - me logged in as root
+R 2020-04-26 10:07 - me transfered $2243 from #683621676 (localhost) to #744335213 at [46.25.121.118]
+R 2020-04-26 10:07 - me logged on account #683621676
+R 2020-04-26 10:06 - me transfered $1098 from #277266226 (65.206.153.233) to #683621676 at localhost
+L 2020-04-26 10:12 - me installed file Intermediate Firewall.fwl (3.4)
+L 2020-04-26 10:20 - [192.86.121.183] logged in as ftp
+L 2020-04-26 10:21 - [192.86.121.183] launched a DDoS attack against me
+L [192.86.121.183] DDoSed me via [19.222.223.190] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [27.78.87.37] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [36.168.171.250] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [44.80.45.51] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [48.40.103.253] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [65.16.52.123] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [74.39.36.67] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [83.171.181.24] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [96.30.92.134] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [110.229.195.78] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [111.208.253.92] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [123.127.96.201] using Generic DDoS.vddos (1.5)
+L [192.86.121.183] DDoSed me via [123.185.52.82] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [131.243.181.220] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [136.170.124.41] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [146.84.30.35] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [155.255.144.58] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [192.58.64.207] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [199.46.110.160] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [231.137.74.60] using Basic DDoS.vddos (1.0)
+L [192.86.121.183] DDoSed me via [232.49.79.191] using Basic DDoS.vddos (1.0)
+L 2020-04-26 10:32 - me reset their ip for $2119. Funds were transfered from #737479449 at [186.240.4.229]
+L 2020-04-26 10:48 - [179.6.173.85] logged in as root
+L 2020-04-26 10:48 - me upgraded net to 25 Mbit for $1000. Funds were transfered from acount #737479449 at [186.240.4.229]
+L 2020-04-26 10:49 - me upgraded hdd to 5 GB for $3000. Funds were transfered from acount #737479449 at [186.240.4.229]
+L 2020-04-26 10:50 - me upgraded cpu to 4 GHz for $5000. Funds were transfered from acount #737479449 at [186.240.4.229]
+L 2020-04-26 10:55 - [179.6.173.85] uploaded file Advanced Cracker.crc (5.4) at me

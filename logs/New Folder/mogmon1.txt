@@ -1,0 +1,36 @@
+L 2020-04-26 06:35 - localhost logged in to [176.211.115.221] as root
+R 2020-04-26 00:21 - [95.35.110.10] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-26 00:15 - [95.35.110.10] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 
+R 2020-04-26 00:07 - [95.35.110.10] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-26 00:02 - [95.35.110.10] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 23:57 - [95.35.110.10] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-25 23:57 - [95.35.110.10] installed virus Basic Warez.vwarez (1.0) at localhost
+R 2020-04-25 23:57 - [95.35.110.10] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-25 23:57 - [95.35.110.10] uploaded file Basic Warez.vwarez (1.0) at localhost
+R 2020-04-25 23:56 - [95.35.110.10] logged in as root
+R 2020-04-25 20:41 - llogged in as root
+R 2020-04-25 20:00 - [] logged in as root
+R 2020-04-25 13:48 - [95.35.110.10] DDoSed [108.155.135.76] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 13:41 - [95.35.110.10] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 13:34 - [95.35.110.10] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 13:24 - [95.35.110.10] DDoSed [245.229.242.210] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 13:13 - [95.35.110.10] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 13:06 - [95.35.110.10] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 13:01 - [95.35.110.10] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:51 - [95.35.110.10] DDoSed [207.211.231.33] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:45 - [95.35.110.10] DDoSed [207.211.231.33] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:39 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:34 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:24 - [95.35.110.10] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:17 - [95.35.110.10] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 12:01 - [95.35.110.10] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 11:51 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 11:45 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 11:40 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 11:33 - [95.35.110.10] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-25 11:32 - [95.35.110.10] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-25 11:32 - [95.35.110.10] installed virus Basic Warez.vwarez (1.0) at localhost
+R 2020-04-25 11:32 - [95.35.110.10] uploaded file Basic Warez.vwarez (1.0) at localhost
+R 2020-04-25 11:31 - [95.35.110.10] logged in as root
+L 2020-04-26 06:37 - localhost uploaded file Advanced Warez.vwarez (5.0) to [176.211.115.221]

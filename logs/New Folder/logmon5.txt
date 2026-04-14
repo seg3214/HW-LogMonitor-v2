@@ -1,0 +1,240 @@
+L 2020-04-23 11:38 - me logged in to [253.252.242.249] as root
+L 2020-04-23 11:35 - me installed file Decent Cracker.crc (2.2)
+R 2020-04-23 11:29 - [104.58.128.7] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:27 - [15.24.132.217] DDoSed [104.58.128.7] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:23 - [104.58.128.7] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:12 - [104.58.128.7] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:07 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:02 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:56 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:50 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:43 - [104.58.128.7] DDoSed [11.145.212.62] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:38 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:32 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:27 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:22 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:16 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:11 - [104.58.128.7] DDoSed [234.79.43.182] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:05 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:59 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:54 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:48 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:42 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 11:45 - me logged in to [155.144.111.47] as ssh
+L 2020-04-23 11:44 - me installed file Decent SSH Exploit.exp (2.4)
+L 2020-04-23 11:42 - me installed virus Basic Spam.vspam (1.0) at [253.252.242.249]
+L 2020-04-23 11:42 - me uploaded file Basic Spam.vspam (1.0) to [253.252.242.249]
+L 2020-04-23 11:42 - me downloaded file Decent SSH Exploit.exp (2.4) at [253.252.242.249]
+L 2020-04-23 11:42 - me downloaded file Decent Anti-Virus.av (2.5) at [253.252.242.249]
+R 2020-04-23 11:44 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:38 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:07 - [104.58.128.7] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 10:07 - [104.58.128.7] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 10:07 - [104.58.128.7] logged in as root
+R 2020-04-23 09:59 - [104.58.128.7] installed virus Decent Spam.vspam (2.6) at localhost
+R 2020-04-23 09:59 - [104.58.128.7] logged in as root
+R 2020-04-23 11:50 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 11:55 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 12:01 - me logged in to [252.198.33.251] as ssh
+R 2020-04-23 12:01 - [me] logged in as ssh
+R 2020-04-23 10:08 - [104.58.128.7] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 10:08 - [104.58.128.7] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 10:01 - [104.58.128.7] installed virus Decent Warez.vwarez (2.5) at localhost
+R 2020-04-23 10:01 - [104.58.128.7] logged in as root
+R 2020-04-23 12:03 - [211.124.65.106] DDoSed [89.243.171.90] via localhost using Decent DDoS.vddos (2.0)
+L 2020-04-23 12:04 - me logged in to [0.218.173.133] as ssh
+R 2020-04-23 12:04 - [me] logged in as ssh
+R 2020-04-23 09:53 - [104.58.128.7] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 09:53 - [104.58.128.7] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 09:49 - [104.58.128.7] installed virus Intermediate Miner.vminer (3.0) at localhost
+R 2020-04-23 09:49 - [104.58.128.7] logged in as root
+L 2020-04-23 12:05 - me installed virus Intermediate Miner.vminer (3.0) at [0.218.173.133]
+R 2020-04-23 12:05 - [me] installed virus Intermediate Miner.vminer (3.0) at localhost
+R 2020-04-23 12:06 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 12:06 - me logged in to [231.245.159.152] as ssh
+R 2020-04-23 12:06 - [me] logged in as ssh
+L 2020-04-23 12:09 - me seeked file Intermediate Anti-Virus.av (3.0) at [231.245.159.152]
+R 2020-04-23 12:09 - [me] seeked file Intermediate Anti-Virus.av (3.0) at localhost
+L 2020-04-23 12:10 - me logged in to [141.154.171.157] as root
+R 2020-04-23 12:10 - [me] logged in as root
+R 2020-04-23 12:06 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:55 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:50 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:44 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:38 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:29 - [104.58.128.7] DDoSed [25.206.183.49] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:27 - [15.24.132.217] DDoSed [104.58.128.7] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:23 - [104.58.128.7] DDoSed [25.206.183.49] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:12 - [104.58.128.7] DDoSed [25.206.183.49] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:07 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 11:02 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:56 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:50 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:43 - [104.58.128.7] DDoSed [11.145.212.62] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:38 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:32 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:27 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:22 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:11 - [104.58.128.7] DDoSed [234.79.43.182] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 10:05 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 09:59 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 09:54 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 09:48 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 12:11 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Decent DDoS.vddos (2.0)
+L 2020-04-23 12:14 - me downloaded file Decent FTP Exploit.exp (2.6) at [141.154.171.157]
+R 2020-04-23 12:14 - [me] downloaded file Decent FTP Exploit.exp (2.6) at localhost
+L 2020-04-23 12:14 - me installed file Decent FTP Exploit.exp (2.6)
+L 2020-04-23 12:15 - me uninstalled file Decent SSH Exploit.exp (2.4)
+L 2020-04-23 12:15 - me logged in to [141.154.171.157] as ftp
+R 2020-04-23 12:15 - [me] logged in as ftp
+L 2020-04-23 12:15 - me installed file Decent SSH Exploit.exp (2.4)
+L 2020-04-23 12:16 - me logged in to [231.245.159.152] as root
+R 2020-04-23 12:16 - [me] logged in as root
+L 2020-04-23 12:22 - me uploaded file Basic Spam.vspam (1.0) to [231.245.159.152]
+R 2020-04-23 12:22 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:22 - me installed virus Intermediate Spam.vspam (3.0) at [231.245.159.152]
+R 2020-04-23 12:22 - [me] installed virus Intermediate Spam.vspam (3.0) at localhost
+L 2020-04-23 12:24 - me downloaded file Intermediate Anti-Virus.av (3.0) at [231.245.159.152]
+R 2020-04-23 12:24 - [me] downloaded file Intermediate Anti-Virus.av (3.0) at localhost
+L 2020-04-23 12:25 - me logged in to [223.158.185.248] as ftp
+R 2020-04-23 12:25 - [me] logged in as ftp
+R 2020-04-23 12:24 - [104.58.128.7] DDoSed [244.186.140.88] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:17 - [104.58.128.7] DDoSed [91.244.117.110] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:11 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 12:26 - me uploaded file Basic Spam.vspam (1.0) to [223.158.185.248]
+R 2020-04-23 12:26 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:27 - me logged in to [239.55.203.41] as ftp
+R 2020-04-23 12:27 - [me] logged in as ftp
+R 2020-04-23 12:30 - [104.58.128.7] DDoSed [142.19.107.64] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 12:32 - me downloaded file Intermediate FTP Exploit.exp (3.0) at [239.55.203.41]
+R 2020-04-23 12:32 - [me] downloaded file Intermediate FTP Exploit.exp (3.0) at localhost
+L 2020-04-23 12:32 - me downloaded file Intermediate SSH Exploit.exp (3.0) at [239.55.203.41]
+R 2020-04-23 12:32 - [me] downloaded file Intermediate SSH Exploit.exp (3.0) at localhost
+L 2020-04-23 12:32 - me installed file Intermediate SSH Exploit.exp (3.0)
+L 2020-04-23 12:33 - me installed file Intermediate FTP Exploit.exp (3.0)
+R 2020-04-23 12:33 - [me] logged in as root
+L 2020-04-23 12:33 - me logged in to [76.36.127.169] as root
+L 2020-04-23 12:35 - me uploaded file Basic Spam.vspam (1.0) to [76.36.127.169]
+R 2020-04-23 12:35 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:35 - me installed virus Basic Spam.vspam (1.0) at [76.36.127.169]
+R 2020-04-23 12:35 - [me] installed virus Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:36 - me logged in to [35.82.159.245] as root
+R 2020-04-23 12:36 - [me] logged in as root
+R 2020-04-23 12:03 - [211.124.65.106] DDoSed [89.243.171.90] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-23 11:27 - [15.24.132.217] DDoSed [104.58.128.7] via localhost using Intermediate DDoS.vddos (3.0)
+L 2020-04-23 12:38 - me uploaded file Basic Spam.vspam (1.0) to [35.82.159.245]
+R 2020-04-23 12:38 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:39 - me installed virus Basic Spam.vspam (1.0) at [35.82.159.245]
+R 2020-04-23 12:39 - [me] installed virus Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:39 - me installed virus Intermediate DDoS.vddos (3.0) at [35.82.159.245]
+R 2020-04-23 12:39 - [me] installed virus Intermediate DDoS.vddos (3.0) at localhost
+L 2020-04-23 12:40 - me logged in to [47.12.32.8] as root
+R 2020-04-23 12:40 - [me] logged in as root
+L 2020-04-23 12:41 - me uploaded file Basic Spam.vspam (1.0) to [47.12.32.8]
+R 2020-04-23 12:41 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+R 2020-04-23 12:41 - [me] installed virus Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:41 - me installed virus Basic Spam.vspam (1.0) at [47.12.32.8]
+L 2020-04-23 12:43 - me logged in to [55.223.233.195] as root
+R 2020-04-23 12:43 - [me] logged in as root
+L 2020-04-23 12:45 - me installed virus Competent Spam.vspam (4.0) at [55.223.233.195]
+R 2020-04-23 12:45 - [me] installed virus Competent Spam.vspam (4.0) at localhost
+L 2020-04-23 12:49 - me downloaded file Competent Cracker.crc (4.0) at [55.223.233.195]
+R 2020-04-23 12:49 - [me] downloaded file Competent Cracker.crc (4.0) at localhost
+L 2020-04-23 12:49 - me installed file Competent Cracker.crc (4.0)
+L 2020-04-23 12:50 - me logged in to [195.49.236.150] as root
+R 2020-04-23 12:50 - [me] logged in as root
+L 2020-04-23 12:51 - me uploaded file Basic Spam.vspam (1.0) to [195.49.236.150]
+R 2020-04-23 12:51 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+R 2020-04-23 12:51 - [me] installed virus Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 12:51 - me installed virus Basic Spam.vspam (1.0) at [195.49.236.150]
+L 2020-04-23 13:02 - me downloaded file Competent Cracker.crc (4.2) at [195.49.236.150]
+R 2020-04-23 13:02 - [me] downloaded file Competent Cracker.crc (4.2) at localhost
+L 2020-04-23 13:02 - me installed file Competent Cracker.crc (4.2)
+R 2020-04-23 13:03 - [me] logged in as root
+L 2020-04-23 13:03 - me logged in to [34.59.205.117] as root
+L 2020-04-23 13:07 - me downloaded file Intermediate FTP Exploit.exp (3.6) at [34.59.205.117]
+L 2020-04-23 13:07 - me installed file Intermediate FTP Exploit.exp (3.6)
+L 2020-04-23 13:09 - me logged in to [104.220.18.154] as ftp
+R 2020-04-23 13:09 - [me] logged in as ftp
+L 2020-04-23 13:11 - me logged in to [205.2.235.40] as ftp
+R 2020-04-23 13:11 - [me] logged in as ftp
+L 2020-04-23 13:12 - [55.137.29.249] logged in as root
+L 2020-04-23 13:13 - me logged in to [88.81.66.69] as ftp
+R 2020-04-23 13:13 - [me] logged in as ftp
+R 2020-04-23 13:13 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 13:07 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:59 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:54 - [104.58.128.7] DDoSed [91.244.117.110] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:49 - [104.58.128.7] DDoSed [91.244.117.110] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:43 - [104.58.128.7] DDoSed [142.19.107.64] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 13:14 - [55.137.29.249] logged in as root
+R 2020-04-23 13:20 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 13:25 - [104.58.128.7] DDoSed [112.208.98.214] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 13:32 - me downloaded file Advanced Cracker.crc (5.0) at [88.81.66.69]
+R 2020-04-23 13:32 - [me] downloaded file Advanced Cracker.crc (5.0) at localhost
+R 2020-04-23 13:32 - [104.58.128.7] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 13:33 - me deleted file Decent Cracker.crc (2.0)
+L 2020-04-23 13:33 - me deleted file Decent Cracker.crc (2.2)
+L 2020-04-23 13:34 - me deleted file Competent Cracker.crc (4.0)
+L 2020-04-23 13:37 - me installed file Advanced Cracker.crc (5.0)
+L 2020-04-23 13:38 - me deleted file Intermediate FTP Exploit.exp (3.0)
+L 2020-04-23 13:38 - me deleted file Decent SSH Exploit.exp (2.4)
+L 2020-04-23 13:38 - me deleted file Decent FTP Exploit.exp (2.6)
+L 2020-04-23 13:40 - me downloaded file Advanced Collector.vcol (5.0) at [88.81.66.69]
+R 2020-04-23 13:40 - [me] downloaded file Advanced Collector.vcol (5.0) at localhost
+L 2020-04-23 13:41 - me logged in to [99.173.110.35] as root
+R 2020-04-23 13:41 - [me] logged in as root
+R 2020-04-23 13:36 - anonymous login to account 1CVUoEtgQ3dMlZvIL6D64MDrnEMdGLP09S
+R 2020-04-23 13:30 - 1CVUoEtgQ3dMlZvIL6D64MDrnEMdGLP09S sold 1 BTC for $7,139
+R 2020-04-23 13:30 - anonymous login to account 1CVUoEtgQ3dMlZvIL6D64MDrnEMdGLP09S
+R 2020-04-23 13:08 - 1zLPsoPt6bs4f7ZNeFeoUR3PSUvGiJhfmz sold 1.337 BTC for $9,545
+R 2020-04-23 13:08 - anonymous login to account 1zLPsoPt6bs4f7ZNeFeoUR3PSUvGiJhfmz
+R 2020-04-23 12:59 - 1ouTC2eZWFE7s8PngMzMBdgBR6K5XlPvK0 sold 1.337 BTC for $9,545
+R 2020-04-23 12:59 - anonymous login to account 1ouTC2eZWFE7s8PngMzMBdgBR6K5XlPvK0
+R 2020-04-23 13:41 - anonymous login to account 1J8yiRH97QUO8FjvuMqIZSUsgKLvT7Whlb
+R 2020-04-23 13:42 - 1J8yiRH97QUO8FjvuMqIZSUsgKLvT7Whlb sold 1.337 BTC for $9,545
+L 2020-04-23 13:44 - me uploaded file Generic Anti-Virus.av (1.5) to [99.173.110.35]
+R 2020-04-23 13:44 - [me] uploaded file Generic Anti-Virus.av (1.5) at localhost
+L 2020-04-23 13:44 - me downloaded file Advanced Firewall.fwl (5.0) at [99.173.110.35]
+R 2020-04-23 13:44 - [me] downloaded file Advanced Firewall.fwl (5.0) at localhost
+L 2020-04-23 13:44 - me downloaded file Advanced Hasher.hash (5.0) at [99.173.110.35]
+R 2020-04-23 13:44 - [me] downloaded file Advanced Hasher.hash (5.0) at localhost
+L 2020-04-23 13:45 - me logged in to [252.198.33.251] as root
+R 2020-04-23 13:45 - [me] logged in as root
+R 2020-04-23 13:42 - [104.58.128.7] DDoSed [44.80.45.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 12:38 - [104.58.128.7] DDoSed [91.244.117.110] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 13:46 - me downloaded file Decent Warez.vwarez (2.5) at [252.198.33.251]
+R 2020-04-23 13:46 - [me] downloaded file Decent Warez.vwarez (2.5) at localhost
+L 2020-04-23 13:47 - me logged in to [99.173.110.35] as root
+R 2020-04-23 13:47 - [me] logged in as root
+L 2020-04-23 13:48 - me uploaded file Decent Warez.vwarez (2.5) to [99.173.110.35]
+R 2020-04-23 13:48 - [me] uploaded file Decent Warez.vwarez (2.5) at localhost
+L 2020-04-23 13:48 - me runned antivirus Generic Anti-Virus.av (1.5) at [99.173.110.35], deleting 4 virus.
+R 2020-04-23 13:48 - [me] runned antivirus Generic Anti-Virus.av (1.5) at localhost, deleting 4 virus.
+L 2020-04-23 13:48 - me installed virus Decent Warez.vwarez (2.5) at [99.173.110.35]
+R 2020-04-23 13:48 - [me] installed virus Decent Warez.vwarez (2.5) at localhost
+L 2020-04-23 13:50 - me installed file Advanced Hasher.hash (5.0)
+L 2020-04-23 13:51 - me logged in to [67.131.142.122] as root
+R 2020-04-23 13:51 - [me] logged in as root
+L 2020-04-23 13:52 - me downloaded file Fotoshop CS6.torrent (3.0) at [67.131.142.122]
+R 2020-04-23 13:52 - [me] downloaded file Fotoshop CS6.torrent (3.0) at localhost
+L 2020-04-23 13:52 - me uploaded file Decent Warez.vwarez (2.5) to [67.131.142.122]
+R 2020-04-23 13:52 - [me] uploaded file Decent Warez.vwarez (2.5) at localhost
+L 2020-04-23 13:52 - me uploaded file Generic Anti-Virus.av (1.5) to [67.131.142.122]
+R 2020-04-23 13:52 - [me] installed virus Decent Warez.vwarez (2.5) at localhost
+R 2020-04-23 13:52 - [me] uploaded file Generic Anti-Virus.av (1.5) at localhost
+L 2020-04-23 13:52 - me installed virus Decent Warez.vwarez (2.5) at [67.131.142.122]
+L 2020-04-23 13:56 - me runned antivirus Generic Anti-Virus.av (1.5) at [67.131.142.122], deleting 3 virus.
+R 2020-04-23 13:56 - [me] runned antivirus Generic Anti-Virus.av (1.5) at localhost, deleting 3 virus.
+R 2020-04-23 13:56 - [me] logged in as root
+R 2020-04-23 13:54 - [104.58.128.7] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 13:56 - me logged in to [176.211.115.221] as root
+L 2020-04-23 13:57 - me uploaded file Generic Anti-Virus.av (1.5) to [176.211.115.221]
+R 2020-04-23 13:57 - [me] uploaded file Generic Anti-Virus.av (1.5) at localhost
+L 2020-04-23 13:57 - me uploaded file Decent Warez.vwarez (2.5) to [176.211.115.221]
+R 2020-04-23 13:57 - [me] uploaded file Decent Warez.vwarez (2.5) at localhost
+L 2020-04-23 13:57 - me installed virus Decent Warez.vwarez (2.5) at [176.211.115.221]
+R 2020-04-23 13:57 - [me] installed virus Decent Warez.vwarez (2.5) at localhost
+R 2020-04-23 14:00 - [104.58.128.7] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 14:01 - me runned antivirus Generic Anti-Virus.av (1.5) at [176.211.115.221], deleting 3 virus.
+R 2020-04-23 14:01 - [me] runned antivirus Generic Anti-Virus.av (1.5) at localhost, deleting 3 virus.

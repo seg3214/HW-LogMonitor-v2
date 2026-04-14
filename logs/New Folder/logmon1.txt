@@ -1,0 +1,119 @@
+L 2020-04-23 06:32 - me downloaded file Competent Cracker.crc (4.0) at [40.68.114.144]
+L 2020-04-23 06:32 - me logged in to [40.68.114.144] as root
+L 2020-04-23 06:02 - me installed file Basic Port Scan.scan (1.0)
+L 2020-04-23 06:02 - me downloaded file Basic Port Scan.scan (1.0) at [231.137.74.60]
+L 2020-04-23 06:02 - me installed virus Basic Spam.vspam (1.0) at [231.137.74.60]
+L 2020-04-23 06:01 - me logged in to [231.137.74.60] as root
+L 2020-04-23 06:00 - me installed virus Generic Spam.vspam (1.5) at [191.82.235.147]
+L 2020-04-23 06:00 - me installed file Generic FTP Exploit.exp (1.8)
+L 2020-04-23 05:59 - me downloaded file Generic FTP Exploit.exp (1.8) at [191.82.235.147]
+L 2020-04-23 05:59 - me downloaded file Generic Anti-Virus.av (1.5) at [191.82.235.147]
+L 2020-04-23 05:57 - me downloaded file Generic Collector.vcol (1.5) at [191.82.235.147]
+L 2020-04-23 05:55 - me deleted file Basic Cracker.crc (1.4)
+L 2020-04-23 05:55 - me installed file Generic Cracker.crc (1.5)
+L 2020-04-23 05:54 - me downloaded file Generic Cracker.crc (1.5) at [191.82.235.147]
+L 2020-04-23 05:52 - me deleted file Basic Cracker.crc (1.3)
+L 2020-04-23 05:51 - me logged in to [191.82.235.147] as root
+L 2020-04-23 05:50 - me installed file Basic Cracker.crc (1.4)
+L 2020-04-23 05:50 - me downloaded file Basic Cracker.crc (1.4) at [60.61.56.220]
+L 2020-04-23 05:50 - me logged in to [60.61.56.220] as root
+L 2020-04-23 05:47 - me deleted file Basic Cracker.crc (1.2)
+L 2020-04-23 05:43 - me logged in to [60.61.56.220] as root
+L 2020-04-23 05:42 - me installed file Basic Cracker.crc (1.3)
+R 2020-04-23 06:33 - localhost logged in to [me] as root
+L 2020-04-23 06:33 - [40.68.114.144] uninstalled file Generic Cracker.crc (1.5) at me
+L 2020-04-23 06:35 - [238.191.231.168] logged in as root
+L 2020-04-23 06:36 - [238.191.231.168] hid file Generic Anti-Virus.av (1.5) at me
+L 2020-04-23 06:37 - [238.191.231.168] uploaded file Basic DDoS.vddos (1.0) at me
+L 2020-04-23 06:37 - [238.191.231.168] uploaded file heartbleed.vspam (1.0) at me
+L 2020-04-23 06:37 - [238.191.231.168] installed virus heartbleed.vspam (1.0) at me
+L 2020-04-23 06:37 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at me
+L 2020-04-23 06:38 - me installed file Competent Cracker.crc (4.0)
+L 2020-04-23 06:40 - me logged in to [245.125.179.102] as root
+L 2020-04-23 06:40 - [238.191.231.168] DDoSed [40.68.114.144] via me using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:40 - [me] logged in as root
+R 2020-04-23 06:40 - [238.191.231.168] DDoSed [40.68.114.144] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:26 - [238.191.231.168] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:21 - [238.191.231.168] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:07 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:02 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:54 - [238.191.231.168] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:49 - [238.191.231.168] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:43 - [238.191.231.168] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:37 - [238.191.231.168] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 04:43 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+R 2020-04-23 04:38 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+R 2020-04-23 04:32 - [136.215.255.222] DDoSed [104.58.128.7] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+L 2020-04-23 06:41 - [238.191.231.168] logged in as root
+L 2020-04-23 06:41 - [238.191.231.168] uninstalled file Competent Cracker.crc (4.0) at me
+L 2020-04-23 06:42 - [238.191.231.168] hid file Competent Cracker.crc (4.0) at me
+L 2020-04-23 06:43 - [238.191.231.168] uninstalled file Basic Port Scan.scan (1.0) at me
+L 2020-04-23 06:43 - [238.191.231.168] hid file Basic Port Scan.scan (1.0) at me
+L 2020-04-23 06:52 - [238.191.231.168] logged in as root
+L 2020-04-23 06:52 - [238.191.231.168] launched a DDoS attack against me
+L [238.191.231.168] DDoSed me via [1.2.3.4] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [2.185.249.221] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [3.11.249.58] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [3.71.138.81] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [5.52.46.124] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [10.115.222.186] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [19.222.223.190] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [23.0.75.115] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [23.109.196.130] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [23.192.145.99] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [25.206.183.49] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [27.78.87.37] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [29.55.221.36] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [34.59.205.117] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [35.71.50.101] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [36.168.171.250] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [39.195.245.93] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [46.25.121.118] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [47.12.32.8] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [48.111.213.52] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [52.180.81.215] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [55.223.233.195] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [64.20.54.130] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [65.206.153.233] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [67.131.142.122] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [69.184.85.185] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [73.59.197.1] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [74.39.36.67] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [76.36.127.169] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [83.171.181.24] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [84.39.249.97] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [88.81.66.69] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [89.243.171.90] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [91.244.117.110] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [92.164.90.111] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [99.173.110.35] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [104.157.249.177] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [104.170.36.126] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [104.220.18.154] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [108.250.154.211] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [110.229.195.78] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [112.208.98.214] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [114.4.93.139] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [123.127.96.201] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [127.184.162.49] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [130.89.233.243] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [139.22.109.248] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [153.5.163.233] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [158.90.110.50] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [163.52.50.24] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [166.8.120.58] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [176.211.115.221] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [195.49.236.150] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [196.114.180.51] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [205.2.235.40] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [207.211.231.33] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [210.210.71.253] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [214.54.153.155] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [217.243.197.137] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [219.71.107.218] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [222.132.46.186] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [225.249.237.45] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [227.2.23.33] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [231.137.74.60] using Basic DDoS.vddos (1.0)
+L [238.191.231.168] DDoSed me via [245.125.179.102] using Basic DDoS.vddos (1.0)
+

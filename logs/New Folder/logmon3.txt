@@ -1,0 +1,170 @@
+L 2020-04-23 07:19 - me logged in to [114.4.93.139] as root
+L 2020-04-23 07:17 - me installed file Basic SSH Exploit.exp (1.0)
+L 2020-04-23 07:17 - me downloaded file Basic SSH Exploit.exp (1.0) at [231.137.74.60]
+L 2020-04-23 07:16 - me logged in to [231.137.74.60] as download
+L 2020-04-23 07:15 - me downloaded file Basic Collector.vcol (1.0) at [231.137.74.60]
+L 2020-04-23 07:13 - me installed file Basic Port Scan.scan (1.0)
+L 2020-04-23 07:12 - me downloaded file Basic Port Scan.scan (1.0) at [231.137.74.60]
+L 2020-04-23 07:12 - me downloaded file Basic Spam.vspam (1.0) at [231.137.74.60]
+L 2020-04-23 07:11 - me installed file Basic Cracker.crc (1.0)
+L 2020-04-23 07:11 - me downloaded file Basic Cracker.crc (1.0) at [231.137.74.60]
+R 2020-04-23 07:17 - [238.191.231.168] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 07:06 - [238.191.231.168] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 07:00 - [238.191.231.168] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:52 - [238.191.231.168] DDoSed [88.116.190.173] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:40 - [238.191.231.168] DDoSed [40.68.114.144] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:26 - [238.191.231.168] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:21 - [238.191.231.168] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:15 - [234.79.43.182] hid file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 06:07 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 06:02 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:54 - [238.191.231.168] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:49 - [238.191.231.168] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 05:43 - [238.191.231.168] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 07:22 - [238.191.231.168] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 07:24 - me downloaded file Basic Cracker.crc (1.1) at [114.4.93.139]
+R 2020-04-23 07:24 - [me] downloaded file Basic Cracker.crc (1.1) at localhost
+L 2020-04-23 07:24 - me installed file Basic Cracker.crc (1.1)
+L 2020-04-23 07:26 - me logged in to [3.71.138.81] as root
+R 2020-04-23 07:26 - [me] logged in as root
+R 2020-04-23 07:19 - [234.79.43.182] uninstalled file Basic Firewall.fwl (1.0) at localhost
+R 2020-04-23 06:52 - [234.79.43.182] deleted folder haha at localhost
+R 2020-04-23 06:52 - [234.79.43.182] created folder haha at localhost
+R 2020-04-23 06:44 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 06:44 - [238.191.231.168] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 06:44 - [238.191.231.168] installed virus Basic Warez.vwarez (1.0) at localhost
+R 2020-04-23 06:43 - [238.191.231.168] logged in as root
+R 2020-04-23 07:27 - [me] downloaded file Basic Cracker.crc (1.2) at localhost
+L 2020-04-23 07:27 - me downloaded file Basic Cracker.crc (1.2) at [3.71.138.81]
+L 2020-04-23 07:28 - me installed file Basic Cracker.crc (1.2)
+L 2020-04-23 07:29 - me logged in to [73.59.197.1] as root
+R 2020-04-23 07:29 - [me] logged in as root
+R 2020-04-23 05:37 - [238.191.231.168] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 07:30 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 07:30 - me downloaded file Basic Cracker.crc (1.3) at [73.59.197.1]
+R 2020-04-23 07:30 - [me] downloaded file Basic Cracker.crc (1.3) at localhost
+L 2020-04-23 07:31 - me installed file Basic Cracker.crc (1.3)
+L 2020-04-23 07:31 - me logged in to [60.61.56.220] as root
+R 2020-04-23 07:31 - [me] logged in as root
+R 2020-04-23 07:17 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:17 - [238.191.231.168] installed virus Basic Miner.vminer (1.3) at localhost
+R 2020-04-23 07:17 - [238.191.231.168] downloaded file Basic Miner.vminer (1.3) at localhost
+R 2020-04-23 07:16 - [238.191.231.168] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:16 - [238.191.231.168] logged in as root
+R 2020-04-23 04:43 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+R 2020-04-23 04:38 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+L 2020-04-23 07:33 - me downloaded file Basic Cracker.crc (1.4) at [60.61.56.220]
+R 2020-04-23 07:33 - [me] downloaded file Basic Cracker.crc (1.4) at localhost
+L 2020-04-23 07:34 - me installed file Basic Cracker.crc (1.4)
+L 2020-04-23 07:34 - me logged in to [191.82.235.147] as root
+R 2020-04-23 07:34 - [me] logged in as root
+R 2020-04-23 07:16 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:15 - [238.191.231.168] installed virus Basic Warez.vwarez (1.0) at localhost
+R 2020-04-23 07:15 - [238.191.231.168] uploaded file Basic Warez.vwarez (1.0) at localhost
+R 2020-04-23 07:15 - [238.191.231.168] hid file Generic Anti-Virus.av (1.5) at localhost
+R 2020-04-23 07:14 - [238.191.231.168] logged in as root
+R 2020-04-23 07:35 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 07:36 - me installed virus Generic Spam.vspam (1.5) at [191.82.235.147]
+R 2020-04-23 07:36 - [me] installed virus Generic Spam.vspam (1.5) at localhost
+L 2020-04-23 07:36 - me downloaded file Generic Cracker.crc (1.5) at [191.82.235.147]
+R 2020-04-23 07:36 - [me] downloaded file Generic Cracker.crc (1.5) at localhost
+L 2020-04-23 07:37 - me installed file Generic Cracker.crc (1.5)
+L 2020-04-23 07:38 - me logged in to [245.125.179.102] as root
+R 2020-04-23 07:38 - [me] logged in as root
+L 2020-04-23 07:39 - me downloaded file Generic Cracker.crc (1.6) at [245.125.179.102]
+R 2020-04-23 07:39 - [me] downloaded file Generic Cracker.crc (1.6) at localhost
+L 2020-04-23 07:40 - me installed file Generic Cracker.crc (1.6)
+L 2020-04-23 07:41 - me logged in to [175.169.194.226] as root
+R 2020-04-23 07:41 - [me] logged in as root
+R 2020-04-23 07:14 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:14 - [238.191.231.168] installed virus Generic Warez.vwarez (1.5) at localhost
+R 2020-04-23 07:14 - [238.191.231.168] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:13 - [238.191.231.168] hid file Generic Anti-Virus.av (1.5) at localhost
+R 2020-04-23 07:13 - [238.191.231.168] logged in as root
+L 2020-04-23 07:43 - me installed virus Generic Miner.vminer (1.6) at [175.169.194.226]
+R 2020-04-23 07:43 - [me] installed virus Generic Miner.vminer (1.6) at localhost
+R 2020-04-23 07:44 - [238.191.231.168] DDoSed [44.130.160.39] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 07:44 - me downloaded file Generic Cracker.crc (1.7) at [175.169.194.226]
+R 2020-04-23 07:44 - [me] downloaded file Generic Cracker.crc (1.7) at localhost
+L 2020-04-23 07:44 - me installed file Generic Cracker.crc (1.7)
+L 2020-04-23 07:47 - me logged in to [40.120.197.157] as root
+R 2020-04-23 07:47 - [me] logged in as root
+R 2020-04-23 07:44 - [238.191.231.168] DDoSed [44.130.160.39] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 07:35 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 07:30 - [238.191.231.168] DDoSed [89.243.171.90] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 07:22 - [238.191.231.168] DDoSed [23.192.145.99] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 07:17 - [238.191.231.168] DDoSed [23.192.145.99] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 07:13 - [238.191.231.168] installed virus Generic DDoS.vddos (1.5) at localhost
+R 2020-04-23 07:13 - [238.191.231.168] installed virus Basic Spam.vspam (1.4) at localhost
+R 2020-04-23 07:12 - [238.191.231.168] logged in as root
+R 2020-04-23 04:43 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 04:38 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-23 04:32 - [136.215.255.222] DDoSed [104.58.128.7] via localhost using Generic DDoS.vddos (1.5)
+L 2020-04-23 07:50 - me downloaded file Generic Cracker.crc (1.8) at [40.120.197.157]
+R 2020-04-23 07:50 - [me] downloaded file Generic Cracker.crc (1.8) at localhost
+L 2020-04-23 07:51 - me installed virus Basic Spam.vspam (1.4) at [40.120.197.157]
+R 2020-04-23 07:51 - [me] installed virus Basic Spam.vspam (1.4) at localhost
+L 2020-04-23 07:51 - me installed virus Generic DDoS.vddos (1.5) at [40.120.197.157]
+R 2020-04-23 07:51 - [me] installed virus Generic DDoS.vddos (1.5) at localhost
+L 2020-04-23 07:51 - me installed file Generic Cracker.crc (1.8)
+L 2020-04-23 07:52 - me logged in to [74.127.77.22] as root
+R 2020-04-23 07:52 - [me] logged in as root
+R 2020-04-23 07:12 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:12 - [238.191.231.168] installed virus Generic Spam.vspam (1.7) at localhost
+R 2020-04-23 07:12 - [238.191.231.168] hid file Basic Anti-Virus.av (1.4) at localhost
+R 2020-04-23 07:12 - [238.191.231.168] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:11 - [238.191.231.168] logged in as root
+R 2020-04-23 04:32 - [136.215.255.222] DDoSed [104.58.128.7] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+L 2020-04-23 07:53 - me deleted file Basic Cracker.crc (1.4)
+L 2020-04-23 07:55 - me downloaded file Generic Cracker.crc (1.9) at [74.127.77.22]
+R 2020-04-23 07:55 - [me] downloaded file Generic Cracker.crc (1.9) at localhost
+L 2020-04-23 07:55 - me installed virus Generic Spam.vspam (1.7) at [74.127.77.22]
+R 2020-04-23 07:55 - [me] installed virus Generic Spam.vspam (1.7) at localhost
+L 2020-04-23 07:57 - me deleted file Basic SSH Exploit.exp (1.0)
+L 2020-04-23 07:57 - me deleted file Basic Collector.vcol (1.0)
+L 2020-04-23 07:57 - me deleted file Basic Cracker.crc (1.0)
+L 2020-04-23 07:57 - me deleted file Basic Cracker.crc (1.3)
+L 2020-04-23 07:57 - me deleted file Basic Cracker.crc (1.2)
+L 2020-04-23 07:59 - me installed file Generic Cracker.crc (1.9)
+L 2020-04-23 08:00 - me deleted file Basic Cracker.crc (1.1)
+L 2020-04-23 08:01 - me deleted file Generic Cracker.crc (1.5)
+L 2020-04-23 08:01 - me deleted file Generic Cracker.crc (1.6)
+L 2020-04-23 08:02 - me downloaded file Generic Firewall.fwl (1.8) at [74.127.77.22]
+R 2020-04-23 08:02 - [me] downloaded file Generic Firewall.fwl (1.8) at localhost
+L 2020-04-23 08:02 - me downloaded file Generic Hasher.hash (1.8) at [74.127.77.22]
+R 2020-04-23 08:02 - [me] downloaded file Generic Hasher.hash (1.8) at localhost
+L 2020-04-23 08:02 - me downloaded file Decent Collector.vcol (2.0) at [74.127.77.22]
+R 2020-04-23 08:02 - [me] downloaded file Decent Collector.vcol (2.0) at localhost
+L 2020-04-23 08:02 - me installed file Generic Hasher.hash (1.8)
+L 2020-04-23 08:02 - me installed file Generic Firewall.fwl (1.8)
+L 2020-04-23 08:04 - me logged in to [74.127.77.22] as root
+R 2020-04-23 08:04 - [me] logged in as root
+L 2020-04-23 08:05 - me logged in to [174.228.63.251] as root
+R 2020-04-23 08:05 - [me] logged in as root
+R 2020-04-23 07:10 - [238.191.231.168] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:10 - [238.191.231.168] installed virus Basic Warez.vwarez (1.0) at localhost
+R 2020-04-23 07:10 - [238.191.231.168] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 07:10 - [238.191.231.168] uploaded file Basic Warez.vwarez (1.0) at localhost
+R 2020-04-23 07:09 - [238.191.231.168] logged in as root
+L 2020-04-23 08:06 - me installed virus Basic Spam.vspam (1.4) at [174.228.63.251]
+R 2020-04-23 08:06 - [me] installed virus Basic Spam.vspam (1.4) at localhost
+L 2020-04-23 08:06 - me downloaded file Decent Cracker.crc (2.0) at [174.228.63.251]
+R 2020-04-23 08:06 - [me] downloaded file Decent Cracker.crc (2.0) at localhost
+R 2020-04-23 08:16 - [162.202.121.226] logged in as root
+L 2020-04-23 08:39 - me installed file Decent Cracker.crc (2.0)
+L 2020-04-23 08:40 - me logged in to [1.2.3.4] as root
+R 2020-04-23 08:40 - [me] logged in as root
+R 2020-04-23 08:40 - [162.202.121.226] runned antivirus Decent Anti-Virus.av (2.0) at localhost, deleting 13 virus.
+R 2020-04-23 08:37 - [104.58.128.7] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 08:36 - [162.202.121.226] downloaded file Decent SSH Exploit.exp (2.0) at localhost
+R 2020-04-23 08:35 - [162.202.121.226] downloaded file Decent Hasher.hash (2.0) at localhost
+R 2020-04-23 08:32 - [162.202.121.226] downloaded file Winblows 8.1.torrent (2.0) at localhost
+R 2020-04-23 08:32 - [162.202.121.226] downloaded file Decent Cracker.crc (2.1) at localhost
+R 2020-04-23 08:32 - [104.58.128.7] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 08:31 - [162.202.121.226] downloaded file Decent Miner.vminer (2.0) at localhost
+R 2020-04-23 08:30 - [162.202.121.226] downloaded file Decent Warez.vwarez (2.0) at localhost
+R 2020-04-23 08:30 - [162.202.121.226] downloaded file Basic Analyzer.ana (1.0) at localhost
+R 2020-04-23 08:30 - [162.202.121.226] downloaded file Decent Spam.vspam (2.0) at localhost
+R 2020-04-23 08:28 - [162.202.121.226] downloaded file Decent Anti-Virus.av (2.0) at localhost
+R 2020-04-23 08:24 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+

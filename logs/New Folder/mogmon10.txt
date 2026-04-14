@@ -1,0 +1,6 @@
+L 2020-04-25 11:09 - me logged in to [1.2.3.4] as root
+L 2020-04-25 11:09 - me logged in to [1.2.3.5] as root
+L 2020-04-25 11:07 - me logged in
+L 2020-04-25 07:50 - me logged in to [227.2.23.33] as root
+R 2020-04-25 11:40 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 11:31 - [95.35.110.10] DDoSed [104.157.249.177] via localhost using Basic DDoS.vddos (1.0)

@@ -1,0 +1,298 @@
+L 2020-04-24 05:36 - me logged in to [64.20.54.130] as root
+R 2020-04-24 05:36 - [me] logged in as root
+R 2020-04-23 21:49 - [134.23.187.157] DDoSed [239.107.57.171] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:43 - [134.23.187.157] DDoSed [104.58.128.7] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 18:21 - [172.147.137.7] DDoSed [104.58.128.7] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 16:58 - [7.160.16.186] DDoSed [55.137.29.249] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 14:40 - [209.111.74.246] DDoSed [99.173.110.35] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 14:01 - [219.92.114.221] DDoSed [104.58.128.7] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-24 06:50 - me downloaded file Advanced Cracker.crc (5.3) at [64.20.54.130]
+R 2020-04-24 06:50 - [me] downloaded file Advanced Cracker.crc (5.3) at localhost
+L 2020-04-24 06:50 - me downloaded file Competent SSH Exploit.exp (4.5) at [64.20.54.130]
+R 2020-04-24 06:50 - [me] downloaded file Competent SSH Exploit.exp (4.5) at localhost
+L 2020-04-24 06:50 - me downloaded file Advanced Miner.vminer (5.0) at [64.20.54.130]
+R 2020-04-24 06:50 - [me] downloaded file Advanced Miner.vminer (5.0) at localhost
+L 2020-04-24 06:50 - me downloaded file Advanced Warez.vwarez (5.0) at [64.20.54.130]
+R 2020-04-24 06:50 - [me] downloaded file Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 06:52 - me installed file Competent SSH Exploit.exp (4.5)
+L 2020-04-24 07:00 - me downloaded file Advanced Hidder.hdr (5.0) at [64.20.54.130]
+R 2020-04-24 07:00 - [me] downloaded file Advanced Hidder.hdr (5.0) at localhost
+L 2020-04-24 07:00 - me downloaded file Advanced Seeker.skr (5.0) at [64.20.54.130]
+R 2020-04-24 07:00 - [me] downloaded file Advanced Seeker.skr (5.0) at localhost
+L 2020-04-24 07:00 - me downloaded file Decent Analyzer.ana (2.0) at [64.20.54.130]
+R 2020-04-24 07:00 - [me] downloaded file Decent Analyzer.ana (2.0) at localhost
+L 2020-04-24 07:00 - me downloaded file Basic Nmap.nmap (1.0) at [64.20.54.130]
+R 2020-04-24 07:00 - [me] downloaded file Basic Nmap.nmap (1.0) at localhost
+L 2020-04-24 07:00 - me installed file Advanced Cracker.crc (5.3)
+L 2020-04-24 07:02 - me installed virus Advanced Miner.vminer (5.0) at [64.20.54.130]
+R 2020-04-24 07:07 - [me] logged in as ssh
+R 2020-04-24 02:18 - [163.77.1.71] DDoSed [104.58.128.7] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 00:56 - [167.122.54.220] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 00:24 - [167.122.54.220] DDoSed [235.198.131.160] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 23:37 - [65.168.129.40] DDoSed [104.58.128.7] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-24 07:07 - me logged in to [25.206.183.49] as ssh
+R 2020-04-24 07:12 - [me] uninstalled file Advanced Hasher.hash (5.4) at localhost
+L 2020-04-24 07:12 - me uninstalled file Advanced Hasher.hash (5.4) at [25.206.183.49]
+L 2020-04-24 07:12 - me logged in to [25.206.183.49] as root
+L 2020-04-24 07:23 - me downloaded file Advanced Hasher.hash (5.4) at [25.206.183.49]
+R 2020-04-24 07:23 - [me] downloaded file Advanced Hasher.hash (5.4) at localhost
+L 2020-04-24 07:23 - me installed virus Decent Spam.vspam (2.0) at [25.206.183.49]
+R 2020-04-24 07:23 - [me] installed virus Decent Spam.vspam (2.0) at localhost
+L 2020-04-24 07:32 - me installed file Advanced Hasher.hash (5.4) at [25.206.183.49]
+L 2020-04-24 07:32 - me logged in to [25.206.183.49] as ssh
+R 2020-04-24 07:32 - [me] logged in as ssh
+R 2020-04-24 07:32 - [me] installed file Advanced Hasher.hash (5.4) at localhost
+L 2020-04-24 07:48 - me installed file Advanced Hasher.hash (5.4)
+L 2020-04-24 08:19 - me deleted file Advanced Hasher.hash (5.0)
+L 2020-04-24 08:19 - me deleted file Advanced Cracker.crc (5.0)
+L 2020-04-24 08:19 - me deleted file Decent Seeker.skr (2.0)
+L 2020-04-24 08:36 - me logged in to [0.218.173.133] as root
+R 2020-04-24 08:36 - [me] logged in as root
+R 2020-04-24 01:49 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 01:34 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 01:29 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 01:01 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 00:30 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 00:03 - [104.58.128.7] DDoSed [50.23.150.35] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 23:53 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 23:46 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 22:06 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:59 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:48 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:42 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:35 - [104.58.128.7] DDoSed [132.34.228.99] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:28 - [104.58.128.7] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:21 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:15 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:09 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 21:04 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:58 - [104.58.128.7] DDoSed [91.244.117.110] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:52 - [104.58.128.7] DDoSed [55.137.29.249] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:45 - [104.58.128.7] DDoSed [91.244.117.110] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:39 - [104.58.128.7] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:34 - [104.58.128.7] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:28 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:20 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:14 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:09 - [104.58.128.7] DDoSed [39.195.245.93] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 20:03 - [104.58.128.7] DDoSed [39.195.245.93] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 19:55 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 19:48 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-24 08:37 - me logged in to [1.2.3.4] as root
+R 2020-04-24 08:37 - [me] logged in as root
+L 2020-04-24 08:40 - me downloaded file Decent Warez.vwarez (2.0) at [1.2.3.4]
+R 2020-04-24 08:40 - [me] downloaded file Decent Warez.vwarez (2.0) at localhost
+L 2020-04-24 08:40 - me downloaded file Decent Anti-Virus.av (2.0) at [1.2.3.4]
+R 2020-04-24 08:40 - [me] downloaded file Decent Anti-Virus.av (2.0) at localhost
+L 2020-04-24 08:40 - me downloaded file Decent Miner.vminer (2.0) at [1.2.3.4]
+R 2020-04-24 08:40 - [me] downloaded file Decent Miner.vminer (2.0) at localhost
+L 2020-04-24 08:41 - me logged in to [0.218.173.133] as root
+R 2020-04-24 08:41 - [me] logged in as root
+L 2020-04-24 08:41 - me downloaded file Intermediate Miner.vminer (3.0) at [0.218.173.133]
+R 2020-04-24 08:41 - [me] downloaded file Intermediate Miner.vminer (3.0) at localhost
+L 2020-04-24 08:43 - me logged in to [99.173.110.35] as root
+R 2020-04-24 08:43 - [me] logged in as root
+R 2020-04-24 08:42 - 1ueUu8LcDC1eNjgYl0TcHHX6x6vORtpmpj sold 1.9968417 BTC for $15,119
+R 2020-04-24 08:42 - anonymous login to account 1ueUu8LcDC1eNjgYl0TcHHX6x6vORtpmpj
+R 2020-04-24 08:14 - 17tMmCS4lQemZU8iuWjNrn4VQ9WtViQkUv sold 12 BTC for $90,852
+R 2020-04-24 08:14 - 12 BTC transfered from 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc to 17tMmCS4lQemZU8iuWjNrn4VQ9WtViQkUv
+R 2020-04-24 08:14 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc bought 12 BTC for $90,852
+R 2020-04-24 08:00 - 17tMmCS4lQemZU8iuWjNrn4VQ9WtViQkUv sold 14 BTC for $105,994
+R 2020-04-24 08:00 - 14 BTC transfered from 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc to 17tMmCS4lQemZU8iuWjNrn4VQ9WtViQkUv
+R 2020-04-24 08:00 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc bought 14 BTC for $105,994
+R 2020-04-24 07:59 - anonymous login to account 17tMmCS4lQemZU8iuWjNrn4VQ9WtViQkUv
+R 2020-04-24 07:56 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc sold 1.1834658 BTC for $8,961
+R 2020-04-24 07:56 - anonymous login to account 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc
+R 2020-04-24 06:58 - 1h2HEa1abKuSQrqWjwxVA2Fn7zhdRgkRNa sold 1.337 BTC for $10,056
+R 2020-04-24 06:58 - anonymous login to account 1h2HEa1abKuSQrqWjwxVA2Fn7zhdRgkRNa
+R 2020-04-24 06:46 - 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo bought 12.5 BTC for $94,013
+R 2020-04-24 06:45 - anonymous login to account 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-24 06:37 - anonymous login to account 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-24 06:35 - anonymous login to account 1QV3UnWQsptWO8H02yk2wJzbxsAgwKT4z9
+R 2020-04-24 06:33 - anonymous login to account 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-24 06:32 - anonymous login to account 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-24 05:56 - 1RO1PZOD9O9sm5Zf1m04fosLZdlb2Pi5yt sold 1 BTC for $7,521
+R 2020-04-24 05:55 - anonymous login to account 1RO1PZOD9O9sm5Zf1m04fosLZdlb2Pi5yt
+R 2020-04-24 05:35 - 1.337 BTC transfered from 1EXf7lFBjgTUYfShpj7VVpeRwqEz6orSwm to 1zE0mWWwdP0y0fUoZoBUvBcBmyvWNWeDEH
+R 2020-04-24 05:35 - anonymous login to account 1EXf7lFBjgTUYfShpj7VVpeRwqEz6orSwm
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 sold 1.0643983 BTC for $8,011
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 1 BTC for $7,526
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 sold 1.5 BTC for $11,289
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.2 BTC for $1,506
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.3 BTC for $2,258
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.1 BTC for $753
+R 2020-04-24 05:08 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.4 BTC for $3,011
+R 2020-04-24 05:07 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.5 BTC for $3,763
+R 2020-04-24 04:55 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 sold 1.7 BTC for $12,795
+R 2020-04-24 04:55 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.1 BTC for $753
+R 2020-04-24 04:55 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.3 BTC for $2,258
+R 2020-04-24 04:55 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.6 BTC for $4,516
+R 2020-04-24 04:55 - 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4 bought 0.7 BTC for $5,269
+R 2020-04-24 04:54 - anonymous login to account 1DNRECriRYlztwDfUpa6pvuYzCl1TAdXf4
+R 2020-04-24 03:55 - 18b7niDwlgga2w4GNSrdO904yIi4WC44nH sold 1.337 BTC for $10,063
+R 2020-04-24 03:55 - anonymous login to account 18b7niDwlgga2w4GNSrdO904yIi4WC44nH
+R 2020-04-24 03:36 - 1D4uqzS0r9fk84wxtp9wWeuItoDSYLWyta sold 1.337 BTC for $9,993
+R 2020-04-24 03:36 - anonymous login to account 1D4uqzS0r9fk84wxtp9wWeuItoDSYLWyta
+R 2020-04-24 01:20 - anonymous login to account 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B
+R 2020-04-24 01:20 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B sold 3.4397393 BTC for $25,713
+R 2020-04-24 01:18 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 0.1 BTC for $748
+R 2020-04-24 01:16 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 1.3 BTC for $9,718
+R 2020-04-24 01:14 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 1 BTC for $7,475
+R 2020-04-24 01:06 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 0.1 BTC for $748
+R 2020-04-24 01:04 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 0.3 BTC for $2,243
+R 2020-04-24 01:01 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 0.1 BTC for $748
+R 2020-04-24 01:01 - anonymous login to account 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B
+R 2020-04-24 00:44 - anonymous login to account 1EXf7lFBjgTUYfShpj7VVpeRwqEz6orSwm
+R 2020-04-24 00:35 - 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9 sold 14.1317932 BTC for $105,636
+R 2020-04-24 00:35 - anonymous login to account 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9
+R 2020-04-24 00:34 - 14 BTC transfered from 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc to 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9
+R 2020-04-24 00:34 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc bought 14 BTC for $104,650
+R 2020-04-24 00:34 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc sold 1.529847 BTC for $11,436
+R 2020-04-24 00:34 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc bought 1 BTC for $7,475
+R 2020-04-24 00:34 - anonymous login to account 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc
+L 2020-04-24 08:45 - me uploaded file Advanced Warez.vwarez (5.0) to [99.173.110.35]
+R 2020-04-24 08:45 - [me] uploaded file Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 08:45 - me installed virus Advanced Warez.vwarez (5.0) at [99.173.110.35]
+R 2020-04-24 08:45 - [me] installed virus Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 08:46 - me logged in to [231.137.74.60] as root
+L 2020-04-24 08:48 - me uploaded file Advanced Warez.vwarez (5.0) to [231.137.74.60]
+L 2020-04-24 08:48 - me installed virus Advanced Warez.vwarez (5.0) at [231.137.74.60]
+L 2020-04-24 08:48 - me uploaded file Decent Anti-Virus.av (2.0) to [231.137.74.60]
+L 2020-04-24 08:48 - me installed virus Basic Spam.vspam (1.0) at [231.137.74.60]
+L 2020-04-24 08:50 - me logged in to [67.131.142.122] as root
+R 2020-04-24 08:50 - [me] logged in as root
+L 2020-04-24 08:52 - me uploaded file Advanced Warez.vwarez (5.0) to [67.131.142.122]
+R 2020-04-24 08:52 - [me] uploaded file Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 08:52 - me installed virus Advanced Warez.vwarez (5.0) at [67.131.142.122]
+R 2020-04-24 08:52 - [me] installed virus Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 08:52 - me logged in to [231.137.74.60] as root
+L 2020-04-24 08:52 - me runned antivirus Decent Anti-Virus.av (2.0) at [231.137.74.60], deleting 16 virus.
+L 2020-04-24 08:55 - me logged in to [139.22.109.248] as root
+R 2020-04-24 08:55 - [me] logged in as root
+L 2020-04-24 08:56 - me installed virus Decent Spam.vspam (2.2) at [139.22.109.248]
+R 2020-04-24 08:56 - [me] installed virus Decent Spam.vspam (2.2) at localhost
+L 2020-04-24 08:57 - me logged in to [130.89.233.243] as root
+R 2020-04-24 08:57 - [me] logged in as root
+L 2020-04-24 08:57 - me installed virus Basic Spam.vspam (1.1) at [130.89.233.243]
+R 2020-04-24 08:57 - [me] installed virus Basic Spam.vspam (1.1) at localhost
+L 2020-04-24 08:58 - me logged in to [176.211.115.221] as root
+R 2020-04-24 08:58 - [me] logged in as root
+L 2020-04-24 09:00 - me uploaded file Advanced Warez.vwarez (5.0) to [176.211.115.221]
+R 2020-04-24 09:00 - [me] uploaded file Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 09:00 - me installed virus Advanced Warez.vwarez (5.0) at [176.211.115.221]
+R 2020-04-24 09:00 - [me] installed virus Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-24 09:01 - me uploaded file Decent Anti-Virus.av (2.5) to [176.211.115.221]
+R 2020-04-24 09:01 - [me] uploaded file Decent Anti-Virus.av (2.5) at localhost
+R 2020-04-24 09:02 - [11.145.212.62] logged in as root
+R 2020-04-24 09:04 - [11.145.212.62] downloaded file Decent Anti-Virus.av (2.5) at localhost
+R 2020-04-24 09:04 - [11.145.212.62] uploaded file Decent Spam.vspam (2.0) at localhost
+R 2020-04-24 09:04 - [11.145.212.62] installed virus Decent Spam.vspam (2.0) at localhost
+L 2020-04-24 09:05 - me runned antivirus Decent Anti-Virus.av (2.5) at [176.211.115.221], deleting 12 virus.
+R 2020-04-24 09:05 - [me] runned antivirus Decent Anti-Virus.av (2.5) at localhost, deleting 12 virus.
+L 2020-04-24 09:05 - me deleted file Decent Anti-Virus.av (2.5) at [176.211.115.221]
+R 2020-04-24 09:05 - [me] deleted file Decent Anti-Virus.av (2.5) at localhost
+L 2020-04-24 09:20 - me logged on account #449256488 on bank [163.52.50.24]
+L 2020-04-24 09:20 - me transfered $1266 from #449256488 (163.52.50.24) to account #37830594 on bank [227.2.23.33]
+L 2020-04-24 09:20 - me logged in to [163.52.50.24] as root
+R 2020-04-24 09:20 - [me] logged in as root
+R 2020-04-24 09:20 - [me] transfered $1266 from #449256488 (localhost) to #37830594 at [227.2.23.33]
+R 2020-04-24 09:20 - [me] logged on account #449256488
+L 2020-04-24 09:21 - me logged in to [227.2.23.33] as root
+R 2020-04-24 09:21 - [me] logged in as root
+R 2020-04-24 09:20 - [me] transfered $1266 from #449256488 (163.52.50.24) to #37830594 at localhost
+R 2020-04-24 09:17 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 09:11 - [104.58.128.7] DDoSed [49.238.95.40] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 09:05 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 09:05 - [49.238.95.40] transfered $195 from #693679489 to #21392699 at localhost
+R 2020-04-24 09:04 - [49.238.95.40] logged on account #693679489
+R 2020-04-24 09:03 - [49.238.95.40] transfered $257 from #21392699 to #693679489 at localhost
+R 2020-04-24 09:02 - [49.238.95.40] logged on account #21392699
+R 2020-04-24 08:59 - [104.58.128.7] DDoSed [23.0.75.115] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 08:56 - [253.148.129.136] logged on account #937758713
+R 2020-04-24 09:23 - [104.58.128.7] DDoSed [73.254.60.252] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-24 09:23 - me logged in to [2.185.249.221] as root
+R 2020-04-24 09:23 - [me] logged in as root
+L 2020-04-24 09:24 - me installed virus Decent Spam.vspam (2.4) at [2.185.249.221]
+R 2020-04-24 09:24 - [me] installed virus Decent Spam.vspam (2.4) at localhost
+L 2020-04-24 09:25 - me collected money using Advanced Collector.vcol (5.0)
+L Server [64.20.54.130] mined at a rate of 40 GH/s, generating 0.068973 BTC.
+L Server [130.89.233.243] mailed 192 emails, generating $5.
+L Server [25.206.183.49] mailed 3250 emails, generating $50.
+L Server [139.22.109.248] mailed 1615 emails, generating $13.
+L Server [168.184.110.117] mailed 24339 emails, generating $427.
+L Server [110.195.156.67] mailed 702 emails, generating $18.
+L Server [52.186.222.204] mailed 1296 emails, generating $27.
+L Server [99.173.110.35] sold 12903 GB of warez, generating $550.
+L Server [231.137.74.60] sold 2870.28 GB of warez, generating $201.
+L Server [67.131.142.122] sold 3712.8 GB of warez, generating $182.
+L Server [176.211.115.221] sold 4681.8 GB of warez, generating $270.
+L $1,831 were transfered to #37830594 on bank [227.2.23.33]
+L 0.0724217 BTC were transfered to address 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS using key yqdEV5EA0y55BghHlCGQPjSfeo3I2JSrvyyBwdWpZ9qGCB1wxpDu5s2YPwLHV9HM
+L 2020-04-24 09:28 - me downloaded file Intermediate Hasher.hash (3.0) at [2.185.249.221]
+R 2020-04-24 09:28 - [me] downloaded file Intermediate Hasher.hash (3.0) at localhost
+L 2020-04-24 09:29 - me bought license of software Advanced Cracker.crc (5.3) for $1908. Funds transfered from account #37830594 at [227.2.23.33]
+L 2020-04-24 09:45 - me researched software Advanced Cracker.crc (5.4) for $583. Funds transfered from account #37830594 at [227.2.23.33]
+L 2020-04-24 09:48 - me collected money using Advanced Collector.vcol (5.0)
+L Server [64.20.54.130] mined at a rate of 40 GH/s, generating 0.0109695 BTC.
+L Server [130.89.233.243] mailed 145 emails, generating $3.
+L Server [2.185.249.221] mailed 1068 emails, generating $8.
+L Server [25.206.183.49] mailed 770 emails, generating $11.
+L Server [139.22.109.248] mailed 1010 emails, generating $11.
+L Server [168.184.110.117] mailed 2400 emails, generating $40.
+L Server [110.195.156.67] mailed 102 emails, generating $2.
+L Server [52.186.222.204] mailed 117 emails, generating $3.
+L Server [99.173.110.35] sold 4455.36 GB of warez, generating $312.
+L Server [231.137.74.60] sold 3825 GB of warez, generating $250.
+L Server [67.131.142.122] sold 3187.5 GB of warez, generating $125.
+L Server [176.211.115.221] sold 4590 GB of warez, generating $250.
+L $1,066 were transfered to #37830594 on bank [227.2.23.33]
+L 0.011518 BTC were transfered to address 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS using key yqdEV5EA0y55BghHlCGQPjSfeo3I2JSrvyyBwdWpZ9qGCB1wxpDu5s2YPwLHV9HM
+L 2020-04-24 09:49 - me installed file Advanced Cracker.crc (5.4)
+L 2020-04-24 09:49 - me logged in to [25.206.183.49] as root
+R 2020-04-24 09:49 - [me] logged in as root
+L 2020-04-24 09:51 - me uploaded file Intermediate Hasher.hash (3.0) to [25.206.183.49]
+R 2020-04-24 09:51 - [me] uploaded file Intermediate Hasher.hash (3.0) at localhost
+L 2020-04-24 09:52 - me logged in to [196.114.180.51] as ssh
+R 2020-04-24 09:52 - [me] logged in as ssh
+L 2020-04-24 09:53 - me deleted file Intermediate Firewall.fwl (3.0) at [196.114.180.51]
+R 2020-04-24 09:53 - [me] deleted file Intermediate Firewall.fwl (3.0) at localhost
+L 2020-04-24 09:54 - me logged in to [196.114.180.51] as ssh
+R 2020-04-24 09:54 - [me] logged in as ssh
+L 2020-04-24 09:56 - me logged in to [205.2.235.40] as root
+R 2020-04-24 09:56 - [me] logged in as root
+L 2020-04-24 09:59 - me downloaded file Intermediate FTP Exploit.exp (3.6) at [205.2.235.40]
+R 2020-04-24 09:59 - [me] downloaded file Intermediate FTP Exploit.exp (3.6) at localhost
+L 2020-04-24 09:59 - me installed file Intermediate FTP Exploit.exp (3.6)
+L 2020-04-24 09:59 - me logged in to [196.114.180.51] as root
+R 2020-04-24 09:59 - [me] logged in as root
+L 2020-04-24 10:06 - me deleted file Advanced Cracker.crc (5.2) at [196.114.180.51]
+R 2020-04-24 10:06 - [me] deleted file Advanced Cracker.crc (5.2) at localhost
+L 2020-04-24 10:06 - me uploaded file Decent Miner.vminer (2.0) to [196.114.180.51]
+R 2020-04-24 10:06 - [me] uploaded file Decent Miner.vminer (2.0) at localhost
+L 2020-04-24 10:07 - me installed virus Decent Miner.vminer (2.0) at [196.114.180.51]
+R 2020-04-24 10:07 - [me] installed virus Decent Miner.vminer (2.0) at localhost
+L 2020-04-24 10:08 - me downloaded file Advanced Hasher.hash (5.6) at [196.114.180.51]
+R 2020-04-24 10:08 - [me] downloaded file Advanced Hasher.hash (5.6) at localhost
+L 2020-04-24 10:10 - me logged in to [112.208.98.214] as root
+R 2020-04-24 10:10 - [me] logged in as root
+L 2020-04-24 10:10 - me downloaded file Basic Hasher.hash (1.0) at [112.208.98.214]
+R 2020-04-24 10:10 - [me] downloaded file Basic Hasher.hash (1.0) at localhost
+L 2020-04-24 10:12 - me uploaded file Intermediate Miner.vminer (3.0) to [112.208.98.214]
+R 2020-04-24 10:12 - [me] uploaded file Intermediate Miner.vminer (3.0) at localhost
+L 2020-04-24 10:12 - me installed virus Intermediate Miner.vminer (3.0) at [112.208.98.214]
+R 2020-04-24 10:12 - [me] installed virus Intermediate Miner.vminer (3.0) at localhost
+L 2020-04-24 10:13 - me logged in to [2.185.249.221] as root
+R 2020-04-24 10:13 - [me] logged in as root
+L 2020-04-24 10:13 - me uploaded file Basic Hasher.hash (1.0) to [2.185.249.221]
+R 2020-04-24 10:13 - [me] uploaded file Basic Hasher.hash (1.0) at localhost
+L 2020-04-24 10:14 - me installed file Advanced Hasher.hash (5.6)
+L 2020-04-24 10:15 - me logged in to [91.244.117.110] as root
+R 2020-04-24 10:15 - [me] logged in as root
+L 2020-04-24 10:18 - me downloaded file Generic Firewall.fwl (1.7) at [91.244.117.110]
+R 2020-04-24 10:18 - [me] downloaded file Generic Firewall.fwl (1.7) at localhost
+L 2020-04-24 10:18 - me installed virus Intermediate Miner.vminer (3.0) at [91.244.117.110]
+L 2020-04-24 10:18 - me uploaded file Intermediate Miner.vminer (3.0) to [91.244.117.110]
+R 2020-04-24 10:18 - [me] installed virus Intermediate Miner.vminer (3.0) at localhost
+R 2020-04-24 10:18 - [me] uploaded file Intermediate Miner.vminer (3.0) at localhost
+L 2020-04-24 10:19 - me logged in to [35.82.159.245] as root
+R 2020-04-24 10:19 - [me] logged in as root

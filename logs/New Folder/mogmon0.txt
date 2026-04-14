@@ -1,0 +1,5 @@
+R 2020-04-26 06:28 - [127.188.110.172] logged in as root
+R 2020-04-26 06:27 - [129.112.74.130] uploaded file Basic Nmap.nmap (1.0) at localhost
+R  
+R 2020-04-26 06:28 - [129.112.74.130] deleted file NMAP_227.2.23.33.txt at localhost
+L 2020-04-26 06:29 - localhost reset their ip for free

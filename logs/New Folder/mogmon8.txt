@@ -1,0 +1,701 @@
+L 2020-04-25 02:22 - me installed virus Decent Miner.vminer (2.0) at [222.132.46.186]
+L 2020-04-25 02:22 - me installed virus Basic DDoS.vddos (1.0) at [222.132.46.186]
+L 2020-04-25 02:22 - me uploaded file Decent Miner.vminer (2.0) to [222.132.46.186]
+L 2020-04-25 02:22 - me uploaded file Basic DDoS.vddos (1.0) to [222.132.46.186]
+L 2020-04-25 02:20 - me logged in to [222.132.46.186] as root
+L 2020-04-25 02:24 - me logged in to [35.82.159.245] as root
+R 2020-04-25 02:24 - [me] logged in as root
+R 2020-04-25 02:23 - [65.91.1.70] DDoSed [53.108.52.57] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-25 02:22 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 020-04-25 02:16 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:09 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:03 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:58 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:48 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:42 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:36 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:31 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:22 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:16 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:06 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:04 - [254.126.128.204] DDoSed [53.108.52.57] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-25 01:01 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:56 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:50 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:45 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:39 - [53.108.52.57] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:34 - [53.108.52.57] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:28 - [53.108.52.57] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:21 - [53.108.52.57] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:09 - [53.108.52.57] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:03 - [11.144.52.172] DDoSed [53.108.52.57] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-25 00:03 - [53.108.52.57] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 23:57 - [53.108.52.57] DDoSed [210.210.71.253] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 23:50 - [53.108.52.57] DDoSed [207.211.231.33] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 23:45 - [53.108.52.57] DDoSed [207.211.231.33] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 23:39 - [53.108.52.57] DDoSed [207.211.231.33] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 23:33 - [53.108.52.57] DDoSed [207.211.231.33] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:29 - [52.97.19.220] DDoSed [162.63.47.8] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 21:17 - [52.97.19.220] DDoSed [35.71.50.101] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 21:07 - [52.97.19.220] DDoSed [2.185.249.221] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 21:02 - [52.97.19.220] DDoSed [2.185.249.221] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:56 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:49 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:43 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:38 - [52.97.19.220] DDoSed [253.148.129.136] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:33 - [29.54.77.134] DDoSed [52.97.19.220] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:33 - [52.97.19.220] DDoSed [223.145.164.59] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:24 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 20:06 - [52.97.19.220] DDoSed [137.17.215.77] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 19:55 - [52.97.19.220] DDoSed [92.164.90.111] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 19:50 - [52.97.19.220] DDoSed [92.164.90.111] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 19:42 - [52.97.19.220] DDoSed [92.164.90.111] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 19:36 - [52.97.19.220] DDoSed [29.55.221.36] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 19:30 - [52.97.19.220] DDoSed [29.55.221.36] via localhost using Intermediate DDoS.vddos (3.0)
+R 2020-04-24 19:23 - [52.97.19.220] DDoSed [75.115.111.122] via localhost using Intermediate DDoS.vddos (3.0)
+L 2020-04-25 02:25 - me uploaded file Basic Miner.vminer (1.3) to [35.82.159.245]
+R 2020-04-25 02:25 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:25 - me installed virus Basic Miner.vminer (1.3) at [35.82.159.245]
+R 2020-04-25 02:25 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:26 - me logged in to [11.145.212.62] as root
+R 2020-04-25 02:26 - [me] logged in as root
+R 2020-04-25 02:23 - [65.91.1.70] DDoSed [53.108.52.57] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:16 - [53.108.52.57] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:04 - [254.126.128.204] DDoSed [53.108.52.57] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 00:03 - [11.144.52.172] DDoSed [53.108.52.57] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:29 - [52.97.19.220] DDoSed [162.63.47.8] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:17 - [52.97.19.220] DDoSed [35.71.50.101] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:07 - [52.97.19.220] DDoSed [2.185.249.221] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:02 - [52.97.19.220] DDoSed [2.185.249.221] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:56 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:49 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:43 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:38 - [52.97.19.220] DDoSed [253.148.129.136] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:33 - [52.97.19.220] DDoSed [223.145.164.59] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:24 - [52.97.19.220] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:06 - [52.97.19.220] DDoSed [137.17.215.77] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:59 - [52.97.19.220] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:59 - [52.97.19.220] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:59 - [52.97.19.220] installed virus Intermediate Miner.vminer (3.0) at localhost
+R 2020-04-24 19:58 - [52.97.19.220] logged in as root
+L 2020-04-25 02:27 - me uploaded file Decent Miner.vminer (2.0) to [11.145.212.62]
+R 2020-04-25 02:27 - [me] uploaded file Decent Miner.vminer (2.0) at localhost
+L 2020-04-25 02:27 - me uploaded file Intermediate DDoS.vddos (3.0) to [11.145.212.62]
+R 2020-04-25 02:27 - [me] uploaded file Intermediate DDoS.vddos (3.0) at localhost
+R 2020-04-25 02:28 - [53.108.52.57] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 02:28 - me installed virus Intermediate DDoS.vddos (3.0) at [11.145.212.62]
+R 2020-04-25 02:28 - [me] installed virus Intermediate DDoS.vddos (3.0) at localhost
+L 2020-04-25 02:28 - me installed virus Decent Miner.vminer (2.0) at [11.145.212.62]
+R 2020-04-25 02:28 - [me] installed virus Decent Miner.vminer (2.0) at localhost
+L 2020-04-25 02:32 - me logged in to [168.184.110.117] as root
+R 2020-04-25 02:32 - [me] logged in as root
+R 2020-04-24 05:39 - localhost logged in
+L 2020-04-25 02:34 - me collected money using Advanced Collector.vcol (5.0)
+L Server [130.89.233.243] mailed 154 emails, generating $4.
+L Server [168.184.110.117] mailed 4290 emails, generating $65.
+L Server [110.195.156.67] mailed 162 emails, generating $3.
+L Server [52.186.222.204] mailed 345 emails, generating $5.
+L Server [67.131.142.122] sold 1179.12 GB of warez, generating $68.
+L Server [60.61.56.220] mined at a rate of 35 GH/s, generating 0.0021013 BTC.
+L Server [179.6.173.85] mined at a rate of 110 GH/s, generating 0.0495626 BTC.
+L $153 were transfered to #549690174 on bank [186.240.4.229]
+L 0.0542471 BTC were transfered to address 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS using key yqdEV5EA0y55BghHlCGQPjSfeo3I2JSrvyyBwdWpZ9qGCB1wxpDu5s2YPwLHV9HM
+L 2020-04-25 02:35 - me uploaded file Intermediate DDoS.vddos (3.0) to [168.184.110.117]
+R 2020-04-25 02:35 - [me] uploaded file Intermediate DDoS.vddos (3.0) at localhost
+L 2020-04-25 02:35 - me installed virus Intermediate DDoS.vddos (3.0) at [168.184.110.117]
+R 2020-04-25 02:35 - [me] installed virus Intermediate DDoS.vddos (3.0) at localhost
+L 2020-04-25 02:35 - me uploaded file Advanced Miner.vminer (5.0) to [168.184.110.117]
+R 2020-04-25 02:35 - [me] uploaded file Advanced Miner.vminer (5.0) at localhost
+L 2020-04-25 02:35 - me installed virus Advanced Miner.vminer (5.0) at [168.184.110.117]
+R 2020-04-25 02:35 - [me] installed virus Advanced Miner.vminer (5.0) at localhost
+L 2020-04-25 02:37 - me logged in to [222.132.46.186] as root
+R 2020-04-25 02:37 - [me] logged in as root
+R 2020-04-25 02:33 - [53.108.52.57] launched a DDoS attack against localhost
+R [53.108.52.57] DDoSed localhost via [0.218.173.133] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [1.2.3.4] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [2.185.249.221] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [3.11.249.58] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [3.71.138.81] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [10.115.222.186] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [11.145.212.62] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [18.234.67.193] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [18.252.195.86] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [19.222.223.190] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [23.0.75.115] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [23.109.196.130] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [23.192.145.99] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [25.206.183.49] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [27.78.87.37] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [29.55.221.36] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [32.156.226.12] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [34.59.205.117] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [35.71.50.101] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [35.82.159.245] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [36.168.171.250] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [39.195.245.93] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [40.120.197.157] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [44.80.45.51] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [46.25.121.118] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [47.12.32.8] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [48.40.103.253] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [48.111.213.52] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [52.180.81.215] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [55.223.233.195] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [60.61.56.220] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [64.20.54.130] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [65.206.153.233] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [67.131.142.122] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [69.184.85.185] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [73.59.197.1] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [74.39.36.67] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [74.127.77.22] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [75.115.111.122] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [76.36.127.169] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [82.3.101.24] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [82.241.70.167] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [83.171.181.24] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [84.39.249.97] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [88.81.66.69] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [89.243.171.90] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [91.244.117.110] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [92.164.90.111] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [95.50.243.161] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [96.30.92.134] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [99.173.110.35] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [104.157.249.177] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [104.170.36.126] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [104.220.18.154] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [108.250.154.211] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [110.229.195.78] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [112.208.98.214] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [114.4.93.139] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [123.127.96.201] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [123.185.52.82] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [127.184.162.49] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [130.89.233.243] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [136.170.124.41] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [139.22.109.248] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [141.154.171.157] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [146.84.30.35] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [153.5.163.233] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [155.144.111.47] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [155.255.144.58] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [158.90.110.50] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [162.63.47.8] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [163.52.50.24] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [166.8.120.58] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [167.55.250.194] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [174.228.63.251] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [175.169.194.226] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [176.211.115.221] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [186.228.181.167] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [186.240.4.229] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [191.82.235.147] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [195.49.236.150] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [196.114.180.51] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [205.2.235.40] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [207.211.231.33] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [210.210.71.253] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [214.54.153.155] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [217.243.197.137] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [219.71.107.218] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [223.145.164.59] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [223.158.185.248] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [225.249.237.45] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [227.2.23.33] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [231.137.74.60] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [231.245.159.152] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [239.55.203.41] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [243.93.145.100] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [245.125.179.102] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [252.198.33.251] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [253.252.242.249] using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:28 - [53.108.52.57] launched a DDoS attack against localhost
+L 2020-04-25 02:39 - me logged in to [252.198.33.251] as root
+R 2020-04-25 02:39 - [me] logged in as root
+R 2020-04-25 02:39 - [53.108.52.57] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:33 - [53.108.52.57] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 01:28 - [242.205.150.135] DDoSed [53.108.52.57] via localhost using MDDSABR.vddos (1.1)
+R 2020-04-25 01:10 - [251.128.79.247] DDoSed [53.108.52.57] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 02:40 - me uploaded file Basic DDoS.vddos (1.0) to [252.198.33.251]
+L 2020-04-25 02:40 - me uploaded file Basic Miner.vminer (1.3) to [252.198.33.251]
+R 2020-04-25 02:40 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-25 02:40 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:40 - me installed virus Basic Miner.vminer (1.3) at [252.198.33.251]
+R 2020-04-25 02:40 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:40 - me installed virus Basic DDoS.vddos (1.0) at [252.198.33.251]
+R 2020-04-25 02:40 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:41 - me logged in to [243.93.145.100] as root
+R 2020-04-25 02:41 - [me] logged in as root
+L 2020-04-25 02:42 - me installed virus MDDSABR.vddos (1.1) at [243.93.145.100]
+R 2020-04-25 02:42 - [me] installed virus MDDSABR.vddos (1.1) at localhost
+L 2020-04-25 02:43 - me logged in to [239.55.203.41] as root
+R 2020-04-25 02:43 - [me] logged in as root
+R 2020-04-24 19:55 - [52.97.19.220] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:50 - [52.97.19.220] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:47 - [94.245.107.205] DDoSed [28.13.214.18] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:42 - [52.97.19.220] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:36 - [52.97.19.220] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:30 - [52.97.19.220] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 19:23 - [52.97.19.220] DDoSed [75.115.111.122] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 02:44 - me uploaded file Basic DDoS.vddos (1.0) to [239.55.203.41]
+L 2020-04-25 02:44 - me uploaded file Basic Miner.vminer (1.3) to [239.55.203.41]
+R 2020-04-25 02:44 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+R 2020-04-25 02:44 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:44 - me installed virus Basic DDoS.vddos (1.0) at [239.55.203.41]
+R 2020-04-25 02:44 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:44 - me installed virus Basic Miner.vminer (1.3) at [239.55.203.41]
+R 2020-04-25 02:44 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:46 - me logged in to [225.249.237.45] as root
+R 2020-04-25 02:46 - [me] logged in as root
+R 2020-04-25 02:46 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 02:47 - me uploaded file Basic DDoS.vddos (1.0) to [225.249.237.45]
+R 2020-04-25 02:47 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:47 - me uploaded file Basic Miner.vminer (1.3) to [225.249.237.45]
+R 2020-04-25 02:47 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:47 - me installed virus Basic DDoS.vddos (1.0) at [225.249.237.45]
+R 2020-04-25 02:47 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:47 - me installed virus Basic Miner.vminer (1.3) at [225.249.237.45]
+R 2020-04-25 02:47 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:48 - me logged in to [223.145.164.59] as root
+R 2020-04-25 02:48 - [me] logged in as root
+R 2020-04-25 02:42 - localhost logged in
+R 2020-04-25 02:23 - [65.91.1.70] DDoSed [53.108.52.57] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-25 01:09 - localhost logged in
+R 2020-04-25 01:04 - [254.126.128.204] DDoSed [53.108.52.57] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-25 00:24 - [53.108.52.57] logged in as root
+R 2020-04-25 00:19 - localhost launched a DDoS attack against [114.4.93.139]
+R localhost DDoSed [114.4.93.139] via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [114.4.93.139] via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [114.4.93.139] via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [114.4.93.139] via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R localhost DDoSed [114.4.93.139] via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [114.4.93.139] via [176.211.115.221] using Generic DDoS.vddos (1.5)
+R 2020-04-25 00:11 - localhost launched a DDoS attack against [1.2.3.4]
+R localhost DDoSed [1.2.3.4] via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [1.2.3.4] via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [1.2.3.4] via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [1.2.3.4] via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R localhost DDoSed [1.2.3.4] via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [1.2.3.4] via [176.211.115.221] using Generic DDoS.vddos (1.5)
+R 2020-04-25 00:05 - localhost launched a DDoS attack against [176.211.115.221]
+R localhost DDoSed [176.211.115.221] via [1.2.3.4] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [176.211.115.221] via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [176.211.115.221] via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [176.211.115.221] via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [176.211.115.221] via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R localhost DDoSed [176.211.115.221] via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R 2020-04-25 00:03 - [11.144.52.172] DDoSed [53.108.52.57] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 23:56 - localhost launched a DDoS attack against [227.2.23.33]
+R localhost DDoSed [227.2.23.33] via [1.2.3.4] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [227.2.23.33] via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [227.2.23.33] via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [227.2.23.33] via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [227.2.23.33] via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R localhost DDoSed [227.2.23.33] via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [227.2.23.33] via [176.211.115.221] using Generic DDoS.vddos (1.5)
+R 2020-04-24 23:50 - localhost launched a DDoS attack against [163.52.50.24]
+R localhost DDoSed [163.52.50.24] via [1.2.3.4] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [163.52.50.24] via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [163.52.50.24] via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [163.52.50.24] via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [163.52.50.24] via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R localhost DDoSed [163.52.50.24] via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [163.52.50.24] via [176.211.115.221] using Generic DDoS.vddos (1.5)
+R 2020-04-24 23:45 - localhost launched a DDoS attack against [186.240.4.229]
+R localhost DDoSed [186.240.4.229] via [1.2.3.4] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [186.240.4.229] via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [186.240.4.229] via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [186.240.4.229] via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [186.240.4.229] via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R localhost DDoSed [186.240.4.229] via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R localhost DDoSed [186.240.4.229] via [176.211.115.221] using Generic DDoS.vddos (1.5)
+L 2020-04-25 02:50 - me logged in to [219.71.107.218] as root
+R 2020-04-25 02:50 - [me] logged in as root
+L 2020-04-25 02:50 - me installed virus Decent Miner.vminer (2.0) at [219.71.107.218]
+R 2020-04-25 02:50 - [me] installed virus Decent Miner.vminer (2.0) at localhost
+R 2020-04-25 02:51 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 02:51 - me uploaded file Basic DDoS.vddos (1.0) to [219.71.107.218]
+R 2020-04-25 02:51 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:51 - me installed virus Basic DDoS.vddos (1.0) at [219.71.107.218]
+R 2020-04-25 02:51 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:52 - me logged in to [217.243.197.137] as root
+R 2020-04-25 02:52 - [me] logged in as root
+R 2020-04-24 21:59 - [244.56.94.7] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 02:53 - me uploaded file Basic DDoS.vddos (1.0) to [217.243.197.137]
+R 2020-04-25 02:53 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:53 - me installed virus Basic DDoS.vddos (1.0) at [217.243.197.137]
+R 2020-04-25 02:53 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:53 - me uploaded file Basic Miner.vminer (1.3) to [217.243.197.137]
+R 2020-04-25 02:53 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:53 - me installed virus Basic Miner.vminer (1.3) at [217.243.197.137]
+R 2020-04-25 02:53 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:54 - me logged in to [214.54.153.155] as root
+R 2020-04-25 02:54 - [me] logged in as root
+R 2020-04-24 
+R 2020-04-24 23:01 - [] logged in as root
+R 2020-04-24 20:29 - [223.145.164.59] launched a DDoS attack against localhost
+R [223.145.164.59] DDoSed localhost via [1.2.3.4] using Generic DDoS.vddos (1.5)
+R [223.145.164.59] DDoSed localhost via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R [223.145.164.59] DDoSed localhost via [64.20.54.130] using Generic DDoS.vddos (1.5)
+R [223.145.164.59] DDoSed localhost via [74.127.77.22] using Generic DDoS.vddos (1.5)
+R [223.145.164.59] DDoSed localhost via [99.173.110.35] using Generic DDoS.vddos (1.5)
+R [223.145.164.59] DDoSed localhost via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R [223.145.164.59] DDoSed localhost via [174.228.63.251] using Generic DDoS.vddos (1.5)
+R [223.145.164.59] DDoSed localhost via [176.211.115.221] using Generic DDoS.vddos (1.5)
+R 2020-04-24 19:44 - [223.145.164.59] logged in as root
+R 2020-04-24 19:31 - [52.97.19.220] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:31 - [52.97.19.220] installed virus Basic Miner.vminer (1.4) at localhost
+R 2020-04-24 19:31 - [52.97.19.220] uploaded file Basic Miner.vminer (1.4) at localhost
+R 2020-04-24 19:31 - [52.97.19.220] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:55 - me seeked file Generic Miner.vminer (1.5) at [214.54.153.155]
+R 2020-04-25 02:55 - [me] seeked file Generic Miner.vminer (1.5) at localhost
+L 2020-04-25 02:55 - me installed virus Generic Miner.vminer (1.5) at [214.54.153.155]
+R 2020-04-25 02:55 - [me] installed virus Generic Miner.vminer (1.5) at localhost
+L 2020-04-25 02:55 - me uploaded file Basic DDoS.vddos (1.0) to [214.54.153.155]
+R 2020-04-25 02:55 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:55 - me installed virus Basic DDoS.vddos (1.0) at [214.54.153.155]
+R 2020-04-25 02:55 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:57 - me logged in to [210.210.71.253] as root
+R 2020-04-25 02:57 - [me] logged in as root
+R 2020-04-20 18:55 - [] logged in as root
+L 2020-04-25 02:58 - me uploaded file Decent Miner.vminer (2.0) to [210.210.71.253]
+R 2020-04-25 02:58 - [me] uploaded file Decent Miner.vminer (2.0) at localhost
+L 2020-04-25 02:58 - me uploaded file Intermediate DDoS.vddos (3.0) to [210.210.71.253]
+R 2020-04-25 02:58 - [me] uploaded file Intermediate DDoS.vddos (3.0) at localhost
+L 2020-04-25 02:58 - me installed virus Decent Miner.vminer (2.0) at [210.210.71.253]
+R 2020-04-25 02:58 - [me] installed virus Decent Miner.vminer (2.0) at localhost
+L 2020-04-25 02:58 - me installed virus Intermediate DDoS.vddos (3.0) at [210.210.71.253]
+R 2020-04-25 02:58 - [me] installed virus Intermediate DDoS.vddos (3.0) at localhost
+L 2020-04-25 02:59 - me logged in to [207.211.231.33] as root
+R 2020-04-25 02:59 - [me] logged in as root
+R 2020-04-21 08:24 - [174.138.151.167] logged in as root
+R 2020-04-20 16:24 - [] logged in as root
+L 2020-04-25 02:59 - me uploaded file Basic DDoS.vddos (1.0) to [207.211.231.33]
+R 2020-04-25 02:59 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:59 - me uploaded file Basic Miner.vminer (1.3) to [207.211.231.33]
+R 2020-04-25 02:59 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 02:59 - me installed virus Basic DDoS.vddos (1.0) at [207.211.231.33]
+R 2020-04-25 02:59 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 02:59 - me installed virus Basic Miner.vminer (1.3) at [207.211.231.33]
+R 2020-04-25 02:59 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+R 2020-04-25 03:00 - [53.108.52.57] DDoSed [166.8.120.58] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 03:01 - me logged in to [186.228.181.167] as root
+R 2020-04-25 03:01 - [me] logged in as root
+R 2020-04-24 21:55 - [] logged in as root
+R 2020-04-24 21:54 -ded file Basic Cracker.crc (1.3) at localhost
+R 2020-04-24 21:52 - [] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 21:52 - [] installed virus heartbleed.vspam (1.0) at localhost
+R 2020-04-24 21:51 - [] uploaded file heartbleed.vspam (1.0) at localhost
+R 2020-04-24 21:47 - [] logged in as root
+R 2020-04-24 19:29 - [52.97.19.220] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:29 - [52.97.19.220] installed virus Basic Miner.vminer (1.4) at localhost
+R 2020-04-24 19:29 - [52.97.19.220] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:29 - [52.97.19.220] uploaded file Basic Miner.vminer (1.4) at localhost
+L 2020-04-25 03:02 - me installed virus Basic Spam.vspam (1.2) at [186.228.181.167]
+R 2020-04-25 03:02 - [me] installed virus Basic Spam.vspam (1.2) at localhost
+L 2020-04-25 03:50 - me logged in to [222.132.46.186] as root
+R 2020-04-25 03:50 - [me] logged in as root
+R 2020-04-25 03:05 - [53.108.52.57] DDoSed [166.8.120.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:39 - [53.108.52.57] launched a DDoS attack against localhost
+R [53.108.52.57] DDoSed localhost via [192.58.64.207] using Basic DDoS.vddos (1.0)
+L 2020-04-25 03:50 - me installed virus Competent Warez.vwarez (4.2) at [222.132.46.186]
+R 2020-04-25 03:50 - [me] installed virus Competent Warez.vwarez (4.2) at localhost
+L 2020-04-25 03:51 - me logged in to [91.244.117.110] as root
+R 2020-04-25 03:51 - [me] logged in as root
+R 2020-04-25 02:45 - [53.108.52.57] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:09 - [52.97.19.220] deleted file Basic Port Scan.scan (1.0) at localhost
+R 2020-04-24 21:09 - [52.97.19.220] logged in as root
+L 2020-04-25 03:52 - me uploaded file Basic Miner.vminer (1.3) to [91.244.117.110]
+R 2020-04-25 03:52 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 03:52 - me uploaded file Basic DDoS.vddos (1.0) to [91.244.117.110]
+R 2020-04-25 03:52 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:52 - me installed virus Basic DDoS.vddos (1.0) at [91.244.117.110]
+R 2020-04-25 03:52 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:52 - me installed virus Basic Miner.vminer (1.3) at [91.244.117.110]
+R 2020-04-25 03:52 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 03:53 - me logged in to [112.208.98.214] as root
+R 2020-04-25 03:53 - [me] logged in as root
+L 2020-04-25 03:53 - me uploaded file Basic Miner.vminer (1.3) to [112.208.98.214]
+R 2020-04-25 03:53 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 03:54 - me uploaded file Basic DDoS.vddos (1.0) to [112.208.98.214]
+R 2020-04-25 03:54 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:54 - me installed virus Basic Miner.vminer (1.3) at [112.208.98.214]
+R 2020-04-25 03:54 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 03:54 - me installed virus Basic DDoS.vddos (1.0) at [112.208.98.214]
+R 2020-04-25 03:54 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:54 - me logged in to [196.114.180.51] as root
+R 2020-04-25 03:54 - [me] logged in as root
+R 2020-04-25 02:51 - [53.108.52.57] launched a DDoS attack against localhost
+R [53.108.52.57] DDoSed localhost via [222.132.46.186] using Basic DDoS.vddos (1.0)
+R [53.108.52.57] DDoSed localhost via [232.49.79.191] using Basic DDoS.vddos (1.0)
+R 2020-04-25 02:46 - [53.108.52.57] launched a DDoS attack against localhost
+L 2020-04-25 03:55 - me uploaded file Basic DDoS.vddos (1.0) to [196.114.180.51]
+R 2020-04-25 03:55 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:55 - me installed virus Basic DDoS.vddos (1.0) at [196.114.180.51]
+R 2020-04-25 03:55 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:55 - me uploaded file Basic Miner.vminer (1.3) to [196.114.180.51]
+R 2020-04-25 03:55 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 03:55 - me installed virus Basic Miner.vminer (1.3) at [196.114.180.51]
+R 2020-04-25 03:55 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 03:58 - me logged in to [205.2.235.40] as root
+R 2020-04-25 03:58 - [me] logged in as root
+L 2020-04-25 03:58 - me uploaded file Basic DDoS.vddos (1.0) to [205.2.235.40]
+R 2020-04-25 03:58 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:58 - me installed virus Basic DDoS.vddos (1.0) at [205.2.235.40]
+R 2020-04-25 03:58 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 03:59 - me uploaded file Decent Miner.vminer (2.0) to [205.2.235.40]
+R 2020-04-25 03:59 - [me] uploaded file Decent Miner.vminer (2.0) at localhost
+L 2020-04-25 03:59 - me installed virus Decent Miner.vminer (2.0) at [205.2.235.40]
+R 2020-04-25 03:59 - [me] installed virus Decent Miner.vminer (2.0) at localhost
+L 2020-04-25 04:00 - me logged in to [2.185.249.221] as root
+R 2020-04-25 04:00 - [me] logged in as root
+R dos (1.0)
+R 2020-04-24 21:07 - [52.97.19.220] launched a DDoS attack against localhost
+R [52.97.19.220] DDoSed localhost via [0.218.173.133] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [1.2.3.4] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [3.11.249.58] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [10.115.222.186] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [11.145.212.62] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [18.234.67.193] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [19.222.223.190] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [23.109.196.130] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [23.192.145.99] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [27.78.87.37] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [34.59.205.117] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [35.71.50.101] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [35.82.159.245] using Intermediate DDoS.vddos (3.0)
+R [52.97.19.220] DDoSed localhost via [36.168.171.250] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [39.195.245.93] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [40.120.197.157] using Generic DDoS.vddos (1.5)
+R [52.97.19.220] DDoSed localhost via [44.80.45.51] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [47.12.32.8] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [48.40.103.253] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [48.111.213.52] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [55.223.233.195] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [64.20.54.130] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [65.16.52.123] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [65.206.153.233] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [67.131.142.122] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [69.184.85.185] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [73.59.197.1] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [74.39.36.67] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [74.127.77.22] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [75.115.111.122] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [76.36.127.169] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [82.241.70.167] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [83.171.181.24] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [84.39.249.97] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [88.81.66.69] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [89.243.171.90] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [91.244.117.110] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [92.164.90.111] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [96.30.92.134] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [99.173.110.35] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [104.157.249.177] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [104.220.18.154] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [108.250.154.211] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [110.229.195.78] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [111.208.253.92] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [112.208.98.214] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [114.4.93.139] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [123.127.96.201] using Generic DDoS.vddos (1.5)
+R [52.97.19.220] DDoSed localhost via [123.185.52.82] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [127.184.162.49] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [130.89.233.243] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [131.243.181.220] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [136.170.124.41] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [139.22.109.248] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [141.154.171.157] using Decent DDoS.vddos (2.0)
+R [52.97.19.220] DDoSed localhost via [146.84.30.35] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [153.5.163.233] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [155.144.111.47] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [155.255.144.58] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [158.90.110.50] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [166.8.120.58] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [167.55.250.194] using Advanced DDoS.vddos (5.0)
+R [52.97.19.220] DDoSed localhost via [174.228.63.251] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [176.211.115.221] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [186.228.181.167] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [191.82.235.147] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [192.58.64.207] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [196.114.180.51] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [199.46.110.160] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [207.211.231.33] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [210.210.71.253] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [210.214.168.199] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [214.54.153.155] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [217.243.197.137] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [219.71.107.218] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [222.132.46.186] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [223.145.164.59] using Generic DDoS.vddos (1.5)
+R [52.97.19.220] DDoSed localhost via [223.158.185.248] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [225.249.237.45] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [227.2.23.33] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [231.137.74.60] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [231.245.159.152] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [232.49.79.191] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [239.55.203.41] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [245.125.179.102] using Basic DDoS.vddos (1.0)
+R [52.97.19.220] DDoSed localhost via [252.198.33.251] using Basic DDoS.vddos (1.0)
+R 2020-04-24 21:02 - [52.97.19.220] launched a DDoS attack against localhost
+R 2020-04-24 20:42 - [75.226.34.101] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-24 20:36 - [75.226.34.101] DDoSed [52.97.19.220] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-25 04:01 - me uploaded file Basic DDoS.vddos (1.0) to [2.185.249.221]
+R 2020-04-25 04:01 - [me] uploaded file Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 04:01 - me uploaded file Basic Miner.vminer (1.3) to [2.185.249.221]
+R 2020-04-25 04:01 - [me] uploaded file Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 04:01 - me installed virus Basic DDoS.vddos (1.0) at [2.185.249.221]
+R 2020-04-25 04:01 - [me] installed virus Basic DDoS.vddos (1.0) at localhost
+L 2020-04-25 04:01 - me installed virus Basic Miner.vminer (1.3) at [2.185.249.221]
+R 2020-04-25 04:01 - [me] installed virus Basic Miner.vminer (1.3) at localhost
+L 2020-04-25 04:02 - me logged in to [176.211.115.221] as root
+R 2020-04-25 04:02 - [me] logged in as root
+R 2020-04-25 00:19 - [223.145.164.59] DDoSed [114.4.93.139] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-25 00:11 - [223.145.164.59] DDoSed [1.2.3.4] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-25 00:05 - [223.145.164.59] launched a DDoS attack against localhost
+R 2020-04-24 23:56 - [223.145.164.59] DDoSed [227.2.23.33] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 23:50 - [223.145.164.59] DDoSed [163.52.50.24] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 23:45 - [223.145.164.59] DDoSed [186.240.4.229] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 22:53 - [223.145.164.59] DDoSed [163.52.50.24] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 21:48 - [223.145.164.59] DDoSed [191.82.235.147] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 21:38 - [223.145.164.59] launched a DDoS attack against localhost
+R 2020-04-24 21:32 - [223.145.164.59] DDoSed [1.2.3.4] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 21:26 - [223.145.164.59] DDoSed [186.240.4.229] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 21:20 - [223.145.164.59] DDoSed [64.20.54.130] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 21:15 - [223.145.164.59] DDoSed [99.173.110.35] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 21:04 - [223.145.164.59] DDoSed [52.97.19.220] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 20:29 - [223.145.164.59] DDoSed [214.54.153.155] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 20:18 - [223.145.164.59] DDoSed [114.4.93.139] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 20:11 - [223.145.164.59] DDoSed [231.137.74.60] via localhost using Generic DDoS.vddos (1.5)
+R 2020-04-24 19:46 - [223.145.164.59] installed virus Generic DDoS.vddos (1.5) at localhost
+R 2020-04-24 19:46 - [223.145.164.59] uploaded file Generic DDoS.vddos (1.5) at localhost
+R 2020-04-24 19:46 - [223.145.164.59] logged in as root
+R 2020-04-24 19:26 - [52.97.19.220] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:26 - [52.97.19.220] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-24 19:26 - [52.97.19.220] installed virus Basic Miner.vminer (1.4) at localhost
+R 2020-04-24 19:26 - [52.97.19.220] uploaded file Basic Miner.vminer (1.4) at localhost
+R 2020-04-24 19:26 - [52.97.19.220] logged in as root
+L 2020-04-25 04:04 - me upgraded net to 100 Mbit for $10000. Funds were transfered from acount #549690174 at [186.240.4.229]
+L 2020-04-25 04:04 - me uploaded file Decent Anti-Virus.av (2.5) to [176.211.115.221]
+R 2020-04-25 04:04 - [me] uploaded file Decent Anti-Virus.av (2.5) at localhost
+L 2020-04-25 04:04 - me uploaded file Advanced Warez.vwarez (5.0) to [176.211.115.221]
+R 2020-04-25 04:04 - [me] uploaded file Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-25 04:04 - me installed virus Advanced Warez.vwarez (5.0) at [176.211.115.221]
+R 2020-04-25 04:04 - [me] installed virus Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-25 04:05 - me logged in to [99.173.110.35] as root
+R 2020-04-25 04:05 - [me] logged in as root
+R 2020-04-25 03:11 - 1nJiFrdFm4VMzW4YQc26FruMd4fsm0aONU sold 3.8773095 BTC for $29,069
+R 2020-04-25 02:03 - anonymous login to account 1BNMD1KDjjgqOt9AL4r4p5aYy9WL278Xbz
+R 2020-04-25 02:00 - anonymous login to account 1BNMD1KDjjgqOt9AL4r4p5aYy9WL278Xbz
+R 2020-04-25 01:48 - 1BNMD1KDjjgqOt9AL4r4p5aYy9WL278Xbz sold 1.337 BTC for $10,035
+R 2020-04-25 01:48 - anonymous login to account 1BNMD1KDjjgqOt9AL4r4p5aYy9WL278Xbz
+R 2020-04-25 01:42 - anonymous login to account 1BNMD1KDjjgqOt9AL4r4p5aYy9WL278Xbz
+R 2020-04-25 00:22 - anonymous login to account 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9
+R 2020-04-25 00:19 - 1TzWktGtjnsRPemCpXFgqHpWcWRGIMjXaq sold 1.6927603 BTC for $12,705
+R 2020-04-25 00:19 - 1.5706969 BTC transfered from 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS to 1TzWktGtjnsRPemCpXFgqHpWcWRGIMjXaq
+R 2020-04-25 00:19 - 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS bought 1 BTC for $7,505
+R 2020-04-25 00:18 - anonymous login to account 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS
+R 2020-04-25 00:18 - anonymous login to account 1TzWktGtjnsRPemCpXFgqHpWcWRGIMjXaq
+R 2020-04-24 23:57 - 2 BTC transfered from 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc to 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-24 23:57 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc bought 2 BTC for $15,010
+R 2020-04-24 23:56 - anonymous login to account 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc
+R 2020-04-24 22:30 - 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9 sold 1.2 BTC for $9,044
+R 2020-04-24 22:30 - anonymous login to account 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9
+R 2020-04-24 22:30 - 1.2 BTC transfered from 1nXpiENeQ3aTCxfc4WN1DD5FxvBYMSkyFk to 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9
+R 2020-04-24 22:29 - anonymous login to account 1nXpiENeQ3aTCxfc4WN1DD5FxvBYMSkyFk
+R 2020-04-24 22:29 - 1nXpiENeQ3aTCxfc4WN1DD5FxvBYMSkyFk bought 1.2 BTC for $9,044
+R 2020-04-24 22:28 - anonymous login to account 1nXpiENeQ3aTCxfc4WN1DD5FxvBYMSkyFk
+R 2020-04-24 22:21 - 1nJiFrdFm4VMzW4YQc26FruMd4fsm0aONU sold 1.2670276 BTC for $9,549
+R 2020-04-24 22:20 - 1nJiFrdFm4VMzW4YQc26FruMd4fsm0aONU bought 1 BTC for $7,536
+R 2020-04-24 21:55 - 1nJiFrdFm4VMzW4YQc26FruMd4fsm0aONU sold 1.3069302 BTC for $9,850
+R 2020-04-24 21:55 - anonymous login to account 1nJiFrdFm4VMzW4YQc26FruMd4fsm0aONU
+R 2020-04-24 21:26 - 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9 sold 2.8350099 BTC for $21,300
+R 2020-04-24 21:26 - anonymous login to account 12uYqVNOdwx8cLcNv65g8h4wcfa7l4Syg9
+R 2020-04-24 21:21 - 1nXpiENeQ3aTCxfc4WN1DD5FxvBYMSkyFk sold 1.3962773 BTC for $10,491
+R 2020-04-24 21:20 - anonymous login to account 1nXpiENeQ3aTCxfc4WN1DD5FxvBYMSkyFk
+R 2020-04-24 21:15 - [223.145.164.59] launched a DDoS attack against localhost
+R 2020-04-24 20:45 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B sold 2.3740018 BTC for $17,836
+R 2020-04-24 20:45 - 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B bought 1.1 BTC for $8,265
+R 2020-04-24 20:44 - anonymous login to account 1R1I9vdLYyCoxaZ8cFxPMbAGInRfKjOR6B
+R 2020-04-24 20:30 - 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob sold 3 BTC for $22,539
+R 2020-04-24 20:30 - 3 BTC transfered from 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo to 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob
+R 2020-04-24 20:29 - 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo bought 3 BTC for $22,539
+R 2020-04-24 20:09 - 1ueUu8LcDC1eNjgYl0TcHHX6x6vORtpmpj sold 2.7645945 BTC for $20,771
+R 2020-04-24 20:09 - anonymous login to account 1ueUu8LcDC1eNjgYl0TcHHX6x6vORtpmpj
+R 2020-04-24 19:52 - [223.145.164.59] installed virus Generic DDoS.vddos (1.5) at localhost
+R 2020-04-24 19:50 - [223.145.164.59] uploaded file Generic DDoS.vddos (1.5) at localhost
+R 2020-04-24 19:50 - [223.145.164.59] logged in as root
+R 2020-04-24 19:24 - anonymous login to account 1OteaTz7MPCdmNHwKLLQeEN102JDdZZKvi
+R 2020-04-24 19:06 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc sold 1.6569899 BTC for $12,451
+R 2020-04-24 19:06 - 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc bought 1 BTC for $7,514
+R 2020-04-24 19:05 - anonymous login to account 1rhW3t2S2FqzmhoCvFBHAMaVbH2bNIocfc
+R 2020-04-24 19:01 - 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob sold 1 BTC for $7,514
+R 2020-04-24 19:01 - 1 BTC transfered from 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo to 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob
+R 2020-04-24 19:01 - 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo bought 1 BTC for $7,514
+R 2020-04-24 18:47 - 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob sold 1.4 BTC for $10,520
+R 2020-04-24 18:46 - anonymous login to account 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob
+R 2020-04-24 18:46 - 1.4 BTC transfered from 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo to 1YTwF8TN11tHqOm0x9iEJTlcPASu6nclob
+R 2020-04-24 18:46 - 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo bought 1.4 BTC for $10,520
+R 2020-04-24 18:42 - 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo sold 14.4634276 BTC for $108,679
+R 2020-04-24 18:42 - anonymous login to account 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-24 17:50 - 1ueUu8LcDC1eNjgYl0TcHHX6x6vORtpmpj sold 1 BTC for $7,521
+R 2020-04-24 17:49 - anonymous login to account 1ueUu8LcDC1eNjgYl0TcHHX6x6vORtpmpj
+L 2020-04-25 04:06 - me uploaded file Generic Anti-Virus.av (1.5) to [99.173.110.35]
+R 2020-04-25 04:06 - [me] uploaded file Generic Anti-Virus.av (1.5) at localhost
+L 2020-04-25 04:07 - me uploaded file Advanced Warez.vwarez (5.0) to [99.173.110.35]
+R 2020-04-25 04:07 - [me] uploaded file Advanced Warez.vwarez (5.0) at localhost
+R 2020-04-25 04:07 - anonymous login to account 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo
+R 2020-04-25 04:07 - 150HRNc0rf3oYlp4JTYOIsbBIGHF9l5OUo sold 2.2781261 BTC for $17,148
+L 2020-04-25 04:07 - me installed virus Advanced Warez.vwarez (5.0) at [99.173.110.35]
+R 2020-04-25 04:07 - [me] installed virus Advanced Warez.vwarez (5.0) at localhost
+L 2020-04-25 04:09 - me logged in to [231.137.74.60] as root
+L 2020-04-25 04:10 - me uploaded file Intermediate DDoS.vddos (3.0) to [231.137.74.60]
+L 2020-04-25 04:10 - me uploaded file Decent Anti-Virus.av (2.0) to [231.137.74.60]
+L 2020-04-25 04:10 - me installed virus Intermediate DDoS.vddos (3.0) at [231.137.74.60]
+L 2020-04-25 04:10 - me uploaded file Advanced Warez.vwarez (5.0) to [231.137.74.60]
+L 2020-04-25 04:10 - me installed virus Advanced Warez.vwarez (5.0) at [231.137.74.60]
+L 2020-04-25 04:11 - me logged in to [176.211.115.221] as root
+R 2020-04-25 04:11 - [me] logged in as root
+L 2020-04-25 04:11 - me runned antivirus Decent Anti-Virus.av (2.5) at [176.211.115.221], deleting 8 virus.
+R 2020-04-25 04:11 - [me] runned antivirus Decent Anti-Virus.av (2.5) at localhost, deleting 8 virus.
+L 2020-04-25 04:12 - me hid file Decent Anti-Virus.av (2.5) at [176.211.115.221]
+R 2020-04-25 04:12 - [me] hid file Decent Anti-Virus.av (2.5) at localhost
+L 2020-04-25 04:12 - me logged in to [99.173.110.35] as root
+R 2020-04-25 04:12 - [me] logged in as root
+L 2020-04-25 04:12 - me runned antivirus Generic Anti-Virus.av (1.5) at [99.173.110.35], deleting 3 virus.
+R 2020-04-25 04:12 - [me] runned antivirus Generic Anti-Virus.av (1.5) at localhost, deleting 3 virus.
+R 2020-04-25 04:13 - [me] hid file Generic Anti-Virus.av (1.5) at localhost
+L 2020-04-25 04:13 - me hid file Generic Anti-Virus.av (1.5) at [99.173.110.35]
+L 2020-04-25 04:14 - me logged in to [231.137.74.60] as root
+L 2020-04-25 04:14 - me runned antivirus Decent Anti-Virus.av (2.0) at [231.137.74.60], deleting 8 virus.
+L 2020-04-25 04:38 - me collected money using Advanced Collector.vcol (5.0)
+L Server [130.89.233.243] mailed 669 emails, generating $11.
+L Server [110.195.156.67] mailed 570 emails, generating $10.
+L Server [52.186.222.204] mailed 924 emails, generating $14.
+L Server [67.131.142.122] sold 2325.6 GB of warez, generating $228.
+L Server [60.61.56.220] mined at a rate of 35 GH/s, generating 0.0070559 BTC.
+L Server [179.6.173.85] mined at a rate of 110 GH/s, generating 0.1664257 BTC.
+L Server [214.54.153.155] mined at a rate of 10 GH/s, generating 0.0029259 BTC.
+L Server [219.71.107.218] mined at a rate of 20 GH/s, generating 0.0081865 BTC.
+L Server [186.228.181.167] mailed 1224 emails, generating $15.
+L Server [35.82.159.245] mined at a rate of 35 GH/s, generating 0.0175306 BTC.
+L Server [11.145.212.62] mined at a rate of 30 GH/s, generating 0.0148014 BTC.
+L Server [168.184.110.117] mined at a rate of 70 GH/s, generating 0.1038187 BTC.
+L Server [252.198.33.251] mined at a rate of 35 GH/s, generating 0.0155714 BTC.
+L Server [239.55.203.41] mined at a rate of 35 GH/s, generating 0.0224858 BTC.
+L Server [222.132.46.186] sold 702.62 GB of warez, generating $43.
+L Server [225.249.237.45] mined at a rate of 20 GH/s, generating 0.0080385 BTC.
+L Server [217.243.197.137] mined at a rate of 25 GH/s, generating 0.0096552 BTC.
+L Server [210.210.71.253] mined at a rate of 40 GH/s, generating 0.0230589 BTC.
+L Server [207.211.231.33] mined at a rate of 30 GH/s, generating 0.0333049 BTC.
+L Server [91.244.117.110] mined at a rate of 40 GH/s, generating 0.0068432 BTC.
+L Server [112.208.98.214] mined at a rate of 40 GH/s, generating 0.010068 BTC.
+L Server [196.114.180.51] mined at a rate of 30 GH/s, generating 0.0071818 BTC.
+L Server [205.2.235.40] mined at a rate of 35 GH/s, generating 0.0077677 BTC.
+L Server [2.185.249.221] mined at a rate of 15 GH/s, generating 0.0020702 BTC.
+L Server [176.211.115.221] sold 9057.6 GB of warez, generating $370.
+L Server [99.173.110.35] sold 19231.08 GB of warez, generating $1,714.
+L Server [231.137.74.60] sold 3026.34 GB of warez, generating $129.
+L $2,661 were transfered to #549690174 on bank [186.240.4.229]
+L 0.4901298 BTC were transfered to address 1k3KTGkSHpXQzE815J9eTFVyqMqUdvP2DS using key yqdEV5EA0y55BghHlCGQPjSfeo3I2JSrvyyBwdWpZ9qGCB1wxpDu5s2YPwLHV9HM

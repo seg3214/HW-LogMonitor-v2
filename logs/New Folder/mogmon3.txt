@@ -1,0 +1,5 @@
+L 2020-04-26 06:40 - me installed virus Decent Miner.vminer (2.0) at [1.2.3.4]
+2020-04L -26 06:39 - me logged in to [1.2.3.4] as root
+L 2020-04-26 06:48 - me logged in to [1.2.3.4] as root
+2020-04L -26 06:40 - me installed virus Decent Miner.vminer (2.0) at [1.2.3.4]
+2020-04R 2020-04-26 06:48 - me logged in as root

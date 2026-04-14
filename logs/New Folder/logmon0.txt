@@ -1,0 +1,55 @@
+L 2020-04-23 05:43 - me logged in to [60.61.56.220] as root
+L 2020-04-23 05:42 - me installed file Basic Cracker.crc (1.3)
+R 2020-04-23 04:43 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+R 2020-04-23 04:38 - [136.215.255.222] DDoSed [89.243.171.90] via localhost using MeuDDOsDeletaSuaACC.vddos (1.1)
+L 2020-04-23 05:47 - me deleted file Basic Cracker.crc (1.2)
+L 2020-04-23 05:50 - me logged in to [60.61.56.220] as root
+R 2020-04-23 05:50 - [me] logged in as root
+L 2020-04-23 05:50 - me downloaded file Basic Cracker.crc (1.4) at [60.61.56.220]
+R 2020-04-23 05:50 - [me] downloaded file Basic Cracker.crc (1.4) at localhost
+L 2020-04-23 05:50 - me installed file Basic Cracker.crc (1.4)
+L 2020-04-23 05:51 - me logged in to [191.82.235.147] as root
+R 2020-04-23 05:51 - [me] logged in as root
+L 2020-04-23 05:52 - me deleted file Basic Cracker.crc (1.3)
+L 2020-04-23 05:54 - me downloaded file Generic Cracker.crc (1.5) at [191.82.235.147]
+R 2020-04-23 05:54 - [me] downloaded file Generic Cracker.crc (1.5) at localhost
+L 2020-04-23 05:55 - me installed file Generic Cracker.crc (1.5)
+L 2020-04-23 05:55 - me deleted file Basic Cracker.crc (1.4)
+L 2020-04-23 05:55 - me upgraded hdd to 0.5 GB for $99. Funds were transfered from acount #37830594 at [227.2.23.33]
+L 2020-04-23 05:57 - me downloaded file Generic Collector.vcol (1.5) at [191.82.235.147]
+R 2020-04-23 05:57 - [me] downloaded file Generic Collector.vcol (1.5) at localhost
+L 2020-04-23 05:59 - me downloaded file Generic Anti-Virus.av (1.5) at [191.82.235.147]
+R 2020-04-23 05:59 - [me] downloaded file Generic Anti-Virus.av (1.5) at localhost
+L 2020-04-23 05:59 - me downloaded file Generic FTP Exploit.exp (1.8) at [191.82.235.147]
+R 2020-04-23 05:59 - [me] downloaded file Generic FTP Exploit.exp (1.8) at localhost
+L 2020-04-23 06:00 - me installed file Generic FTP Exploit.exp (1.8)
+L 2020-04-23 06:00 - me installed virus Generic Spam.vspam (1.5) at [191.82.235.147]
+R 2020-04-23 06:00 - [me] installed virus Generic Spam.vspam (1.5) at localhost
+L 2020-04-23 06:01 - me logged in to [231.137.74.60] as root
+L 2020-04-23 06:02 - me installed virus Basic Spam.vspam (1.0) at [231.137.74.60]
+L 2020-04-23 06:02 - me downloaded file Basic Port Scan.scan (1.0) at [231.137.74.60]
+L 2020-04-23 06:02 - me installed file Basic Port Scan.scan (1.0)
+L 2020-04-23 06:02 - me logged in to [40.68.114.144] as root
+R 2020-04-23 06:02 - [me] logged in as root
+R 2020-04-23 06:03 - localhost installed virus Advanced Miner.vminer (5.0) at [91.244.117.110]
+R 2020-04-23 06:04 - localhost collected money using Competent Collector.vcol (4.0)
+R Server [220.124.70.47] mailed 252 emails, generating $6.
+R Server [222.132.46.186] sold 252.84 GB of warez, generating $14.
+R Server [139.22.109.248] mailed 325 emails, generating $3.
+R Server [191.82.235.147] mailed 960 emails, generating $10.
+R $35 were transfered to #597853228 on bank [186.240.4.229]
+R 2020-04-23 06:05 - localhost logged in to [239.55.203.41] as root
+R 2020-04-23 06:13 - localhost uploaded file Advanced Miner.vminer (5.0) to [239.55.203.41]
+R 2020-04-23 06:15 - localhost logged in to [139.22.109.248] as root
+R 2020-04-23 06:15 - localhost uploaded file Advanced Firewall.fwl (5.9) to [139.22.109.248]
+R 2020-04-23 06:17 - localhost logged on account #859511604 on bank [227.2.23.33]
+R 2020-04-23 06:17 - localhost logged in to [227.2.23.33] as root
+R 2020-04-23 06:19 - localhost logged on account #859511604 on bank [227.2.23.33]
+R 2020-04-23 06:19 - localhost transfered $791 from #859511604 (227.2.23.33) to account #597853228 on bank [186.240.4.229]
+R 2020-04-23 06:19 - localhost logged in to [227.2.23.33] as root
+R 2020-04-23 06:20 - localhost upgraded ram to 2048 MB for $2500. Funds were transfered from acount #597853228 at [186.240.4.229]
+R 2020-04-23 06:21 - [7.34.188.91] logged in as root
+R 2020-04-23 06:22 - localhost transfered $838 from #486788310 (163.52.50.24) to account #989745156 on bank [186.240.4.229]
+R 2020-04-23 06:23 - localhost logged in to [239.55.203.41] as root
+R 2020-04-23 06:24 - localhost logged in to [239.55.203.41] as root
+R 2020-04-23 06:24 - localhost installed virus Advanced Miner.vminer (5.0) at [239.55.203.41]
