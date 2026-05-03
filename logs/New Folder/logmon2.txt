@@ -1,0 +1,156 @@
+L 2020-04-23 09:20 - me logged in to [1.2.3.4] as root
+R 2020-04-23 09:21 - [104.58.128.7] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:11 - [104.58.128.7] DDoSed [234.79.43.182] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:05 - [104.58.128.7] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:03 - [104.58.128.7] installed virus Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 09:02 - [104.58.128.7] uploaded file Basic DDoS.vddos (1.0) at localhost
+R 2020-04-23 09:02 - [104.58.128.7] logged in as root
+R 2020-04-23 08:56 - [104.58.128.7] installed virus Decent Miner.vminer (2.0) at localhost
+R 2020-04-23 08:55 - [104.58.128.7] logged in as root
+R 2020-04-23 08:45 - [104.58.128.7] logged in as root
+R 2020-04-23 08:40 - [162.202.121.226] runned antivirus Decent Anti-Virus.av (2.0) at localhost, deleting 13 virus.
+R 2020-04-23 08:37 - [104.58.128.7] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 08:36 - [162.202.121.226] downloaded file Decent SSH Exploit.exp (2.0) at localhost
+R 2020-04-23 08:35 - [162.202.121.226] downloaded file Decent Hasher.hash (2.0) at localhost
+R 2020-04-23 08:32 - [162.202.121.226] downloaded file Winblows 8.1.torrent (2.0) at localhost
+R 2020-04-23 08:32 - [162.202.121.226] downloaded file Decent Cracker.crc (2.1) at localhost
+R 2020-04-23 08:32 - [104.58.128.7] DDoSed [196.114.180.51] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 08:31 - [162.202.121.226] downloaded file Decent Miner.vminer (2.0) at localhost
+R 2020-04-23 08:30 - [162.202.121.226] downloaded file Decent Warez.vwarez (2.0) at localhost
+R 2020-04-23 08:30 - [162.202.121.226] downloaded file Basic Analyzer.ana (1.0) at localhost
+R 2020-04-23 08:30 - [162.202.121.226] downloaded file Decent Spam.vspam (2.0) at localhost
+R 2020-04-23 08:28 - [162.202.121.226] downloaded file Decent Anti-Virus.av (2.0) at localhost
+R 2020-04-23 08:24 - [104.58.128.7] DDoSed [29.55.221.36] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent SSH Exploit.exp (2.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent Miner.vminer (2.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Winblows 8.1.torrent (2.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent Warez.vwarez (2.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent Spam.vspam (2.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent Cracker.crc (2.1) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Basic Analyzer.ana (1.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent Hasher.hash (2.0) at localhost
+R 2020-04-23 09:22 - [11.145.212.62] downloaded file Decent Firewall.fwl (2.0) at localhost
+L 2020-04-23 09:25 - me installed virus Decent Spam.vspam (2.0) at [1.2.3.4]
+R 2020-04-23 09:25 - [me] installed virus Decent Spam.vspam (2.0) at localhost
+L 2020-04-23 09:25 - me downloaded file Decent Cracker.crc (2.1) at [1.2.3.4]
+R 2020-04-23 09:25 - [me] downloaded file Decent Cracker.crc (2.1) at localhost
+R 2020-04-23 09:28 - [104.58.128.7] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:34 - [226.6.84.64] logged in as root
+R 2020-04-23 09:37 - [162.202.121.226] logged in as root
+R 2020-04-23 09:42 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:48 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:48 - [11.145.212.62] logged in as root
+R 2020-04-23 09:54 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 09:56 - me installed file Decent Cracker.crc (2.1)
+L 2020-04-23 09:58 - me logged in to [141.154.171.157] as root
+R 2020-04-23 09:58 - [me] logged in as root
+R 2020-04-23 09:54 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 09:48 - [104.58.128.7] DDoSed [222.132.46.186] via localhost using Decent DDoS.vddos (2.0)
+R 2020-04-23 09:59 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Decent DDoS.vddos (2.0)
+L 2020-04-23 10:01 - me downloaded file Decent Cracker.crc (2.2) at [141.154.171.157]
+R 2020-04-23 10:01 - [me] downloaded file Decent Cracker.crc (2.2) at localhost
+L 2020-04-23 10:02 - me installed virus Decent DDoS.vddos (2.0) at [141.154.171.157]
+R 2020-04-23 10:02 - [me] installed virus Decent DDoS.vddos (2.0) at localhost
+L 2020-04-23 10:03 - me installed file Decent Cracker.crc (2.2)
+L 2020-04-23 10:03 - me deleted file Decent Cracker.crc (2.0)
+R 2020-04-23 10:05 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Decent DDoS.vddos (2.0)
+L 2020-04-23 10:09 - me logged in to [231.137.74.60] as root
+L 2020-04-23 10:10 - me downloaded file Basic Spam.vspam (1.0) at [231.137.74.60]
+L 2020-04-23 10:11 - me logged in to [253.252.242.249] as root
+R 2020-04-23 10:11 - [me] logged in as root
+R 2020-04-23 10:11 - [104.58.128.7] DDoSed [234.79.43.182] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:05 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 09:59 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+L 2020-04-23 10:13 - me uploaded file Basic Spam.vspam (1.0) to [253.252.242.249]
+R 2020-04-23 10:13 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 10:13 - me installed virus Basic Spam.vspam (1.0) at [253.252.242.249]
+R 2020-04-23 10:13 - [me] installed virus Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 10:14 - me logged in to [141.154.171.157] as root
+R 2020-04-23 10:14 - [me] logged in as root
+R 2020-04-23 10:11 - [104.58.128.7] DDoSed [234.79.43.182] via localhost using Decent DDoS.vddos (2.0)
+L 2020-04-23 10:16 - me uploaded file Basic Spam.vspam (1.0) to [141.154.171.157]
+R 2020-04-23 10:16 - [me] uploaded file Basic Spam.vspam (1.0) at localhost
+L 2020-04-23 10:16 - me installed virus Basic Spam.vspam (1.0) at [141.154.171.157]
+R 2020-04-23 10:16 - [me] installed virus Basic Spam.vspam (1.0) at localhost
+R 2020-04-23 10:16 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Decent DDoS.vddos (2.0)
+L 2020-04-23 10:18 - me logged in to [162.202.121.226] as root
+R 2020-04-23 10:18 - [me] logged in as root
+R 2020-04-23 10:16 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:12 - localhost logged in to [1.2.3.4] as root
+R 2020-04-23 10:11 - localhost logged in to [175.169.194.226] as root
+R 2020-04-23 10:10 - localhost deleted file Generic Hasher.hash (1.8) at [18.252.195.86]
+R 2020-04-23 10:10 - localhost uploaded file Decent Hasher.hash (2.0) to [18.252.195.86]
+R 2020-04-23 10:09 - localhost uploaded file Decent Cracker.crc (2.1) to [18.252.195.86]
+R 2020-04-23 10:06 - localhost deleted file Generic Cracker.crc (1.9) at [18.252.195.86]
+R 2020-04-23 10:05 - localhost deleted file Generic Firewall.fwl (1.8) at [18.252.195.86]
+R 2020-04-23 10:05 - localhost hid file Winblows 8.1.torrent (2.0) at [18.252.195.86]
+R 2020-04-23 10:04 - localhost hid file Decent Spam.vspam (2.0) at [18.252.195.86]
+R 2020-04-23 10:04 - localhost installed virus Decent Spam.vspam (2.0) at [18.252.195.86]
+R 2020-04-23 10:04 - localhost uploaded file Winblows 8.1.torrent (2.0) to [18.252.195.86]
+R 2020-04-23 10:03 - localhost uploaded file Decent Spam.vspam (2.0) to [18.252.195.86]
+R 2020-04-23 10:02 - localhost deleted file Basic Seeker.skr (1.3) at [18.252.195.86]
+R 2020-04-23 10:02 - localhost deleted file Generic Firewall.fwl (1.6) at [18.252.195.86]
+R 2020-04-23 10:01 - localhost deleted file Generic Hasher.hash (1.7) at [18.252.195.86]
+R 2020-04-23 10:01 - localhost deleted file Generic Cracker.crc (1.8) at [18.252.195.86]
+R 2020-04-23 09:59 - localhost logged in to [18.252.195.86] as root
+R 2020-04-23 09:59 - localhost deleted file cose.txt at [244.186.140.88]
+R 2020-04-23 09:58 - localhost hid file Decent Spam.vspam (2.0) at [244.186.140.88]
+R 2020-04-23 09:58 - localhost hid file Basic Miner.vminer (1.3) at [244.186.140.88]
+R 2020-04-23 09:58 - localhost installed virus Basic Miner.vminer (1.3) at [244.186.140.88]
+R 2020-04-23 09:57 - localhost installed virus Decent Spam.vspam (2.0) at [244.186.140.88]
+R 2020-04-23 09:57 - localhost uploaded file Decent Spam.vspam (2.0) to [244.186.140.88]
+R 2020-04-23 09:56 - localhost deleted file Basic Firewall.fwl (1.2) at [244.186.140.88]
+R 2020-04-23 09:55 - localhost installed file Decent Firewall.fwl (2.0) at [244.186.140.88]
+R 2020-04-23 09:55 - localhost uploaded file Decent Firewall.fwl (2.0) to [244.186.140.88]
+R 2020-04-23 09:54 - localhost deleted file Basic SSH Exploit.exp (1.0) at [244.186.140.88]
+R 2020-04-23 09:53 - localhost installed file Basic SSH Exploit.exp (1.1) at [244.186.140.88]
+R 2020-04-23 09:52 - localhost hid file Winblows 8.1.torrent (2.0) at [244.186.140.88]
+R 2020-04-23 09:52 - localhost uploaded file Winblows 8.1.torrent (2.0) to [244.186.140.88]
+R 2020-04-23 09:50 - localhost logged in to [244.186.140.88] as root
+L 2020-04-23 10:19 - me installed virus Decent Spam.vspam (2.0) at [162.202.121.226]
+R 2020-04-23 10:19 - [me] installed virus Decent Spam.vspam (2.0) at localhost
+L 2020-04-23 10:21 - me logged in to [11.145.212.62] as root
+R 2020-04-23 10:21 - [me] logged in as root
+R 2020-04-23 10:03 - localhost logged in to [176.211.115.221] as root
+R 2020-04-23 10:01 - localhost installed file Decent Firewall.fwl (2.0)
+R 2020-04-23 10:01 - localhost installed file Decent Hasher.hash (2.0)
+R 2020-04-23 10:01 - localhost installed file Decent Cracker.crc (2.1)
+R 2020-04-23 09:56 - localhost logged in to [1.2.3.4] as root
+R 2020-04-23 09:48 - localhost logged in to [1.2.3.4] as root
+R 2020-04-23 09:22 - localhost downloaded file Decent Firewall.fwl (2.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Decent Hasher.hash (2.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Decent Cracker.crc (2.1) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Basic Analyzer.ana (1.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Decent Warez.vwarez (2.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Decent Spam.vspam (2.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Decent Miner.vminer (2.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Winblows 8.1.torrent (2.0) at [1.2.3.4]
+R 2020-04-23 09:22 - localhost downloaded file Decent SSH Exploit.exp (2.0) at [1.2.3.4]
+L 2020-04-23 10:21 - me installed virus Decent Spam.vspam (2.0) at [11.145.212.62]
+R 2020-04-23 10:21 - [me] installed virus Decent Spam.vspam (2.0) at localhost
+L 2020-04-23 10:27 - me downloaded file Decent Seeker.skr (2.0) at [11.145.212.62]
+R 2020-04-23 10:27 - [me] downloaded file Decent Seeker.skr (2.0) at localhost
+L 2020-04-23 10:27 - me installed file Decent Seeker.skr (2.0)
+L 2020-04-23 10:27 - me seeked file Generic Anti-Virus.av (1.5)
+L 2020-04-23 10:28 - me seeked file Basic Port Scan.scan (1.0)
+L 2020-04-23 10:30 - me logged in to [162.202.121.226] as root
+R 2020-04-23 10:30 - [me] logged in as root
+R 2020-04-23 10:27 - [104.58.128.7] DDoSed [2.185.249.221] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:25 - localhost logged in to [1.2.3.4] as root
+R 2020-04-23 10:22 - [104.58.128.7] DDoSed [3.11.249.58] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-23 10:30 - localhost collected money using Decent Collector.vcol (2.0)
+R Server [27.78.87.37] mailed 2940 emails, generating $98.
+R Server [231.137.74.60] mailed 19575 emails, generating $261.
+R Server [114.4.93.139] mailed 14094 emails, generating $261.
+R Server [48.40.103.253] mailed 14700 emails, generating $196.
+R Server [227.2.23.33] mailed 105300 emails, generating $1,053.
+R Server [244.186.140.88] mailed 3240 emails, generating $36.
+R Server [18.252.195.86] mailed 2280 emails, generating $24.
+R $1,968 were transfered to #394875539 on bank [227.2.23.33]
+L 2020-04-23 10:32 - me logged on account #394875539 on bank [227.2.23.33]
+L 2020-04-23 10:32 - me transfered $3831 from #394875539 (227.2.23.33) to account #37830594 on bank [227.2.23.33]
+L 2020-04-23 10:33 - me upgraded net to 50 Mbit for $2500. Funds were transfered from acount #37830594 at [227.2.23.33]
+L 2020-04-23 10:33 - me upgraded hdd to 2 GB for $1000. Funds were transfered from acount #37830594 at [227.2.23.33]
+L 2020-04-23 10:33 - me upgraded cpu to 2 GHz for $300. Funds were transfered from acount #37830594 at [227.2.23.33]
+L 2020-04-23 10:33 - [104.58.128.7] logged in as root
+L 2020-04-23 10:33 - me reset their ip for free

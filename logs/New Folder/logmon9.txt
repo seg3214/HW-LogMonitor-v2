@@ -1,0 +1,47 @@
+L 2020-04-25 07:50 - me logged in to [227.2.23.33] as root
+R 2020-04-25 07:50 - [me] logged in as root
+R 2020-04-25 08:28 - [34.81.145.69] logged in as root
+R 2020-04-25 08:28 - [34.81.145.69] logged on account #37830594
+R 2020-04-25 08:38 - [207.219.24.179] logged on account #633610467
+R 2020-04-25 08:38 - [207.219.24.179] logged in as root
+R 2020-04-25 08:39 - [207.219.24.179] logged in as root
+R 2020-04-25 08:39 - [207.219.24.179] logged on account #920416269
+R 2020-04-25 08:41 - [207.219.24.179] logged in as root
+R 2020-04-25 08:41 - [207.219.24.179] logged on account #751601614
+R 2020-04-25 08:43 - [207.219.24.179] logged on account #187372376
+R 2020-04-25 08:43 - [207.219.24.179] logged in as root
+R 2020-04-25 08:43 - [95.35.110.10] DDoSed [18.142.12.116] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 08:46 - [207.219.24.179] logged in as root
+R 2020-04-25 08:46 - [207.219.24.179] logged on account #601870471
+R 2020-04-25 08:50 - [95.35.110.10] DDoSed [231.137.74.60] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 08:57 - [95.35.110.10] logged on account #894278231
+R 2020-04-25 08:57 - [95.35.110.10] logged in as root
+R 2020-04-25 09:05 - [95.35.110.10] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 09:20 - [95.35.110.10] DDoSed [15.251.217.176] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 09:30 - [95.35.110.10] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 09:35 - [95.35.110.10] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 09:40 - [207.219.24.179] logged on account #472755260
+R 2020-04-25 09:40 - [207.219.24.179] logged in as root
+R 2020-04-25 09:45 - [95.35.110.10] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 09:47 - [207.219.24.179] logged in as root
+R 2020-04-25 09:47 - [207.219.24.179] logged on account #423347641
+R 2020-04-25 09:53 - [207.219.24.179] logged on account #835728950
+R 2020-04-25 09:54 - [207.219.24.179] logged on account #578115445
+R 2020-04-25 09:54 - [95.35.110.10] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 09:54 - [207.219.24.179] logged in as root
+R 2020-04-25 10:04 - [207.219.24.179] logged in as root
+R 2020-04-25 10:04 - [207.219.24.179] logged on account #868410648
+R 2020-04-25 10:11 - [95.35.110.10] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 10:18 - [207.219.24.179] logged in as root
+R 2020-04-25 10:18 - [207.219.24.179] logged on account #888684383
+R 2020-04-25 10:18 - [207.219.24.179] logged on account #736552910
+R 2020-04-25 10:19 - [95.35.110.10] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 10:25 - [207.219.24.179] uploaded file Basic Nmap.nmap (1.0) at localhost
+R 2020-04-25 10:26 - [207.219.24.179] scanned localhost and found 0 connected IPs
+R 2020-04-25 10:27 - [95.35.110.10] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 10:30 - [207.219.24.179] logged on account #191578024
+R 2020-04-25 10:31 - [207.219.24.179] logged in as root
+R 2020-04-25 10:31 - [207.219.24.179] logged on account #112815538
+R 2020-04-25 10:33 - [95.35.110.10] DDoSed [34.81.145.69] via localhost using Basic DDoS.vddos (1.0)
+R 2020-04-25 10:33 - [207.219.24.179] logged in as root
+R 2020-04-25 10:33 - [207.219.24.179] logged on account #915904173

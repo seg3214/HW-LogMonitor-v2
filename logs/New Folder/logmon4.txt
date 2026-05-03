@@ -1,0 +1,27 @@
+2020-04-25 11:08 - [95.35.110.10] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 11:01 - [95.35.110.10] DDoSed [92.164.90.111] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:52 - [95.35.110.10] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:46 - [95.35.110.10] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:40 - [95.35.110.10] DDoSed [23.192.145.99] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:33 - [95.35.110.10] DDoSed [34.81.145.69] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:30 - [82.241.70.167] downloaded file Decent SSH Exploit.exp (2.0) at localhost
+2020-04-25 10:29 - [82.241.70.167] downloaded file Decent Miner.vminer (2.0) at localhost
+2020-04-25 10:28 - [82.241.70.167] downloaded file Basic Analyzer.ana (1.0) at localhost
+2020-04-25 10:27 - [95.35.110.10] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+
+2020-04-25 10:19 - [95.35.110.10] DDoSed [225.249.237.45] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:11 - [95.35.110.10] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 10:05 - [95.35.110.10] DDoSed [108.250.154.211] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 09:54 - [95.35.110.10] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 09:45 - [95.35.110.10] DDoSed [25.206.183.49] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 09:35 - [95.35.110.10] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 09:30 - [95.35.110.10] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 09:28 - [95.35.110.10] downloaded file Decent Hasher.hash (2.0) at localhost
+2020-04-25 09:28 - [95.35.110.10] downloaded file Decent Firewall.fwl (2.0) at localhost
+2020-04-25 09:28 - [95.35.110.10] logged in as root
+
+2020-04-25 09:20 - [95.35.110.10] DDoSed [15.251.217.176] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 09:11 - [95.35.110.10] logged in as root
+2020-04-25 09:05 - [95.35.110.10] DDoSed [139.22.109.248] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 08:50 - [95.35.110.10] DDoSed [231.137.74.60] via localhost using Basic DDoS.vddos (1.0)
+2020-04-25 08:43 - [95.35.110.10] DDoSed [18.142.12.116] via localhost using Basic DDoS.vddos (1.0)
